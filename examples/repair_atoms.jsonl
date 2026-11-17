@@ -1,0 +1,3 @@
+{"id":"bug-a","source_id":"synthetic-repo","repo":"example/toy","modified_files":["math.py"],"fix_time":"2026-01-01T00:00:00Z","base_commit":"synthetic-base-a","FAIL_TO_PASS":["test_add"]}
+{"id":"bug-b","source_id":"synthetic-repo","repo":"example/toy","modified_files":["math.py","parse.py"],"fix_time":"2026-01-02T00:00:00Z","base_commit":"synthetic-base-b","FAIL_TO_PASS":["test_parse"]}
+{"id":"bug-c","source_id":"synthetic-repo","repo":"example/toy","modified_files":["parse.py"],"fix_time":"2026-01-03T00:00:00Z","base_commit":"synthetic-base-c","FAIL_TO_PASS":["test_empty"]}

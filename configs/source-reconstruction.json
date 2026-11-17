@@ -1,0 +1,19 @@
+{
+  "variant": "source-reconstructed-2026-11-06",
+  "bank_manifest_patterns": [
+    "outputs/source-derived-datasets/codeclone-original-first/L[123]/manifest.json",
+    "outputs/source-derived-datasets/clone-deterministic-replacements-v2/case-*/manifest.json",
+    "outputs/source-derived-datasets/bugfixing-v3/r*/manifest.json",
+    "outputs/source-derived-datasets/bigo-v3/L*/manifest.json",
+    "outputs/source-derived-datasets/verus-v2/L[123]/manifest.json",
+    "outputs/source-derived-datasets/verus-deep/L10/manifest.json"
+  ],
+  "excluded_clone_atom_ids": ["fempd-13254"],
+  "expected_counts": {
+    "codeclone": {"1": 100, "2": 100, "3": 100},
+    "bugfixing": {"1": 12, "2": 15, "3": 10},
+    "verus": {"1": 87, "2": 25, "3": 25, "10": 10},
+    "bigo": {"1": 25, "2": 80, "3": 80, "10": 10}
+  },
+  "notes": "Only accepted tasks are curated. Counts describe this recovered subset, not the historical population."
+}

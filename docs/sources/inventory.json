@@ -1,0 +1,35 @@
+{
+  "audit_date": "2026-11-05",
+  "artifacts": [
+    {
+      "file": "bugfixing-README.md",
+      "sha256": "3b3215fdeb5eebe2fda553cbbb7c2f4615cb7ae42a4502a4ec3ff5255a94aa96",
+      "upstream_url": "https://huggingface.co/datasets/CodeWalk/multi-bug-repair/blob/7c46f19a018e0d98d3924cbf0dc195ca581a5bce/README.md",
+      "declared_license": "cc-by-4.0; upstream repository licenses also apply"
+    },
+    {
+      "file": "verus-README.md",
+      "sha256": "144c61c0eabe2b61109d0517dc5bf4087385da8c7b50a08416f66beb4e737658",
+      "upstream_url": "https://huggingface.co/datasets/CodeWalk/verus-proof-completion/blob/f0e6ec27f39a688ac130d2e98b386ea82f3098b4/README.md",
+      "declared_license": "mit"
+    },
+    {
+      "file": "verus-PACKAGE_README.md",
+      "sha256": "6ec755fc2f34467087d0436055cf8266ef5cc7fb7feb88adb785385ada664c34",
+      "upstream_url": "https://huggingface.co/datasets/CodeWalk/verus-proof-completion/blob/f0e6ec27f39a688ac130d2e98b386ea82f3098b4/PACKAGE_README.md",
+      "declared_license": "mit"
+    },
+    {
+      "file": "verus-verus-proof-synthesis-LICENSE.txt",
+      "sha256": "14f39536f5cbdb27e9ae843402d2f207bd2a2cd5113dbe08306b831bd839fc88",
+      "upstream_url": "https://huggingface.co/datasets/CodeWalk/verus-proof-completion/blob/f0e6ec27f39a688ac130d2e98b386ea82f3098b4/licenses/verus-proof-synthesis-LICENSE.txt",
+      "declared_license": "mit"
+    },
+    {
+      "file": "codeclone-README.md",
+      "sha256": "f3665de0f1ff2e1eaca8f8b39de5fe9795e083a1524b2170f42d58cb4369ca9d",
+      "upstream_url": "https://huggingface.co/datasets/CodeWalk/clone-equivalence/blob/a24a0d0819bfacc28e36594abfb1acb3176638ba/README.md",
+      "declared_license": "mit; preserve FEMPD attribution"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+name: tests
+on: [push, pull_request]
+jobs:
+  core:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ['3.11', '3.12', '3.13']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+      - run: python -m pip install -e '.[repair,recovery]'
+      - run: python -m unittest discover -s tests -v
+      - run: python -m codewalk plan bugfixing --atoms examples/repair_atoms.jsonl --level 2 --output outputs/plan.json
+  verus:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+      - run: python -m pip install -e '.[repair,recovery]'
+      - name: Install pinned Verus and matching Rust
+        run: |
+          mkdir -p outputs/toolchains
+          curl --fail --location --silent --show-error https://github.com/verus-lang/verus/releases/download/release/0.2026.11.02.8bf68ee/verus-0.2026.11.02.8bf68ee-x86-linux.zip -o outputs/toolchains/verus.zip
+          unzip -q outputs/toolchains/verus.zip -d outputs/toolchains
+          rustup toolchain install 1.99.1-x86_64-unknown-linux-gnu --profile minimal
+          python -c 'import json,pathlib; p=pathlib.Path.cwd(); (p/"outputs/verus-ci.json").write_text(json.dumps({"verus":str(p/"outputs/toolchains/verus-x86-linux/verus"),"timeout_seconds":120}))'
+      - run: python -m unittest discover -s tests -p test_generation.py -v
+        env:
+          CODEWALK_VERUS_CONFIG: ${{ github.workspace }}/outputs/verus-ci.json

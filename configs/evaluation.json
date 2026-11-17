@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "status": "paper-derived protocol documentation; not executable historical launch configs",
+  "source": {"paper_title": "CoDepth: Model-Free Generation of Coding Benchmarks", "commit": "350e07b0c961ba584502d9cd9acddfacbc0483bc", "path": "sections/appendix.tex"},
+  "common": {"model": null, "provider": null, "temperature": null, "top_p": null, "seed": null, "samples_per_task": null, "prompt_revision": null, "original_runner_commit": null},
+  "bugfixing": {"scaffold": "single bash tool, fresh shell per command", "max_turns": 100, "cost_limit_usd": 1.5, "wall_time_seconds": 1500, "max_output_tokens": null, "reveal_composition_depth": false, "oracle": "all union FAIL_TO_PASS tests pass; PASS_TO_PASS not included", "protected": ["tests", "grader configuration"], "public_data_variant": "v1+v2, 568 tasks"},
+  "verus": {"scaffold": "AutoVerus generation/refinement/repair", "max_repair_rounds": 10, "max_output_tokens": 16000, "repair_max_output_tokens": 4096, "wall_time_seconds": 4800, "oracle": "verify after original stage predicates and driver restored; reject bypasses and missing protected blocks", "toolchain_source": "public package card", "verus_version": "0.2026.07.18.3a4d30b", "rust_toolchain": "1.96.0-x86_64-unknown-linux-gnu"},
+  "bigo": {"scaffold": "single call, no tools", "max_output_tokens": 4096, "wall_time_seconds": 300, "paper_tasks_by_level": {"1": 80, "2": 80, "3": 80, "10": 80}, "oracle": "predicted class equals reference", "new_parser": "exact standalone label", "labels": ["constant", "logn", "linear", "nlogn", "quadratic", "cubic", "np"], "dataset_revision": null},
+  "codeclone": {"scaffold": "single call, no tools", "max_output_tokens": 8096, "max_transient_retries": 8, "wall_time_seconds": null, "paper_tasks_by_level": {"1": 86, "2": 82, "3": 84, "10": 166}, "public_tasks_by_level": {"1": 100, "2": 100, "3": 100}, "new_parser": "one complete VERDICT: 0 or VERDICT: 1 line", "oracle": "predicted binary label equals reference", "warning": "public aggregation sample differs from paper data-flow chains"}
+}

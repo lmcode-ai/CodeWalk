@@ -1,0 +1,12 @@
+* text=auto eol=lf
+# Preserve upstream bytes so attribution inventory SHA-256 remains reproducible.
+docs/sources/*-README.md -text
+docs/sources/*-PACKAGE_README.md -text
+docs/sources/*-LICENSE.txt -text
+original/bugfixing/** -text
+original/codeclone/** -text
+original/bigo/** -text
+original/verus/** -text whitespace=-blank-at-eol,-blank-at-eof
+original/verus/vps/autoverus/lemmas/seq_subrange_*.rs whitespace=-blank-at-eol,-blank-at-eof,-space-before-tab
+# Keep the original runner's archived whitespace.
+original/bugfixing/run_bench.py whitespace=-blank-at-eol

@@ -1,0 +1,94 @@
+{
+  "tasks": 1706,
+  "freshly_admitted": 1138,
+  "restored_original_definitions": 568,
+  "domains": {
+    "bugfixing": {
+      "tasks": 568,
+      "counts_by_level": {
+        "1": 200,
+        "2": 200,
+        "3": 168
+      },
+      "classification_controls": null
+    },
+    "verus": {
+      "tasks": 400,
+      "counts_by_level": {
+        "1": 100,
+        "2": 100,
+        "3": 100,
+        "10": 100
+      },
+      "classification_controls": null
+    },
+    "bigo": {
+      "tasks": 320,
+      "counts_by_level": {
+        "1": 80,
+        "2": 80,
+        "3": 80,
+        "10": 80
+      },
+      "classification_controls": {
+        "reference": 1.0,
+        "incorrect": 0.0,
+        "malformed": 0.0
+      }
+    },
+    "codeclone": {
+      "tasks": 418,
+      "counts_by_level": {
+        "1": 86,
+        "2": 82,
+        "3": 84,
+        "10": 166
+      },
+      "classification_controls": {
+        "reference": 1.0,
+        "incorrect": 0.0,
+        "malformed": 0.0
+      },
+      "all_levels_balanced": true
+    }
+  },
+  "model_inference_performed": false,
+  "historical_scores_reusable": false,
+  "duplicate_semantic_groups": 0,
+  "public_judge_separation": true,
+  "local_tests": 42,
+  "bigo_additional_shared_contract_admissions": 320,
+  "original_repair_native_smoke": {
+    "task_id": "horejsek__python-fastjsonschema-88_x2",
+    "level": 2,
+    "atomic_tests": [
+      {
+        "collected": 7,
+        "failures": 7,
+        "passed": 0
+      },
+      {
+        "collected": 3,
+        "failures": 3,
+        "passed": 0
+      }
+    ],
+    "joint_gold": {
+      "collected": 10,
+      "failures": 0,
+      "passed": 10
+    },
+    "fresh_native_replay": true,
+    "original_container_replayed": false,
+    "prepared_source_sha256": "81d622922386ba3f0d569c238a31c2e9c536e2c9d1c9592d8f781986585c7fcc"
+  },
+  "original_container_suite_replayed": false,
+  "limitations": {
+    "codeclone": "Real exact-type data-flow chains, balanced at every paper depth. Recovered/regenerated suites share witnesses and are not independent historical CodeWalk suites. Deep chains use a loop-free source subset to bound native execution; this selection differs from historical mining. Depth-10 negatives are placed last and require a real whole-chain witness.",
+    "bugfixing": "All 568 original published task definitions restored with exact groups, commits, images and patches; not all original image environments freshly replayed locally. Preparation recipes are separate from model inputs.",
+    "verus": "100 original L1 task definitions recovered with actual upstream proofs; two references add an immutable-input loop invariant for current Verus. Higher-level chains are new, conservative compatible-vector compositions, not original historical chains. Toolchain differs from the initial experiment.",
+    "bigo": "Actual CodeComplex functions with source-label agreement, limited AST cost analysis and empirical size-transfer checks. Multiple distinct functions from one problem may enter the pool; each chain uses at most one atom per source problem. This differs from the historical 277-atom one-per-problem pool. No cubic/np atoms."
+  },
+  "alignment_status": "failed; this report records implementation checks, not paper-method compatibility",
+  "alignment_report": "three-way-alignment.json"
+}

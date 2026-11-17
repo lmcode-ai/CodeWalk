@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "codewalk-release"
+version = "0.5.0"
+description = "CodeWalk composition planning, dataset inspection, and evaluation protocol tools"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+repair = ["pytest>=8,<10"]
+recovery = ["apsw>=3.45", "requests>=2.31", "tree-sitter>=0.25,<0.27", "tree-sitter-java>=0.23,<0.24"]
+
+[project.scripts]
+codewalk = "codewalk.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["codewalk*"]
+
+[tool.setuptools.package-data]
+codewalk = ["datasets.json", "recovery/upstreams.json"]

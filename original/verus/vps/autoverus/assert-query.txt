@@ -1,0 +1,138 @@
+Failed assertion
+```
+        assert(step3(x2@, p3_key, x3));
+```
+
+Code
+```
+use vstd::prelude::*;
+fn main() {}
+verus!{
+
+#[verifier::loop_isolation(false)]
+
+fn f1_replace_last_element(first: &Vec<i32>, second: &Vec<i32>) -> (replaced_list: Vec<i32>)
+    requires
+        first.len() > 0,
+    ensures
+        replaced_list.len() == first.len() - 1 + second.len(),
+{
+    let mut replaced_list = Vec::new();
+    let first_end = first.len() - 1;
+    let mut index = 0;
+
+    while index < first_end
+        invariant
+            replaced_list.len() == index,
+        decreases index
+    {
+        replaced_list.push(first[index]);
+        index += 1;
+    }
+
+    // Assertion connecting the state of the first loop to the second
+    assert(replaced_list.len() == first.len() - 1);
+
+    index = 0;
+    while index < second.len()
+        invariant
+            replaced_list.len() == first.len() - 1 + index,
+        decreases index
+    {
+        replaced_list.push(second[index]);
+        index += 1;
+    }
+    replaced_list
+}
+
+fn f2_insert_before_each(arr: &Vec<i32>, elem: i32) -> (result: Vec<i32>)
+{
+    let mut result: Vec<i32> = Vec::new();
+    let mut index = 0;
+
+    while index < arr.len()
+        invariant
+            result.len() == 2 * index,
+        decreases index
+    {
+        result.push(elem);
+        result.push(arr[index]);
+        index += 1;
+    }
+    result
+}
+
+proof fn f3_lemma_vec_push<T>(vec: Seq<T>, i: T, l: usize)
+    requires
+        l == vec.len(),
+    ensures
+        forall|k: int| 0 <= k < vec.len() ==> #[trigger] vec[k] == vec.push(i)[k],
+        vec.push(i).index(l as int) == i,
+{
+}
+
+fn f3_contains(str: &Vec<i32>, key: i32) -> (result: bool)
+{
+    let mut i = 0;
+    while i < str.len()
+        invariant
+            forall|k: int| 0 <= k < i ==> #[trigger] str[k] != key,
+        decreases str.len() - i
+    {
+        if (str[i] == key) {
+            return true;
+        }
+        i += 1;
+    }
+    false
+}
+
+fn f3_contains_impl(arr: &Vec<i32>, key: i32) -> (result: bool)
+{
+    let mut i = 0;
+    while i < arr.len()
+        invariant
+            forall|k: int| 0 <= k < i ==> #[trigger] arr[k] != key,
+        decreases arr.len() - i
+    {
+        if (arr[i] == key) {
+            return true;
+        }
+        i += 1;
+    }
+    false
+}
+
+spec fn step1(__hp0: Seq<i32>, __hp1: Seq<i32>, outp: Seq<i32>) -> bool {
+    (outp == __hp0.subrange(0, __hp0.len() - 1).add(__hp1))
+}
+
+spec fn step2(inp: Seq<i32>, p2_elem: i32, outp: Seq<i32>) -> bool {
+    (outp.len() == (2 * inp.len()))
+    && (forall|k: int| 0 <= k < inp.len() ==> #[trigger] outp[2 * k] == p2_elem)
+    && (forall|k: int| 0 <= k < inp.len() ==> #[trigger] outp[2 * k + 1] == inp[k])
+}
+
+spec fn step3(inp: Seq<i32>, p3_key: i32, outp: bool) -> bool {
+    (outp <==> (exists|i: int| 0 <= i < inp.len() && (inp[i] == p3_key)))
+}
+
+fn chain_driver(first: &Vec<i32>, second: &Vec<i32>, p2_elem: i32, p3_key: i32) -> (r_final: bool)
+    requires
+        first.len() > 0,
+    ensures
+        exists|v1: Seq<i32>, v2: Seq<i32>| #[trigger] step1(first@, second@, v1) && #[trigger] step2(v1, p2_elem, v2) && step3(v2, p3_key, r_final),
+{
+    let x1 = f1_replace_last_element(first, second);
+    let x2 = f2_insert_before_each(&x1, p2_elem);
+    let x3 = f3_contains(&x2, p3_key);
+    proof {
+        assert(step1(first@, second@, x1@));
+        assert(step2(x1@, p2_elem, x2@));
+        assert(exists|i: int| 0 <= i < x2@.len() && (x2@[i] == p3_key) <==> x3); // Helper assertion
+        assert(step3(x2@, p3_key, x3));
+    }
+    x3
+}
+
+} // verus!```

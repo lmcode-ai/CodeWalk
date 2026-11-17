@@ -1,0 +1,570 @@
+{"ids": ["takluyver__flit-168", "takluyver__flit-169"], "source": "swerebenchv2", "level": 2, "repo": "takluyver/flit", "valid": true}
+{"ids": ["d0c-s4vage__pfp-116", "d0c-s4vage__pfp-121", "d0c-s4vage__pfp-123"], "source": "swerebenchv2", "level": 3, "repo": "d0c-s4vage/pfp", "valid": true}
+{"ids": ["kayak__pypika-31", "kayak__pypika-33", "kayak__pypika-38"], "source": "swerebenchv2", "level": 3, "repo": "kayak/pypika", "valid": true}
+{"ids": ["neurodatawithoutborders__pynwb-791", "neurodatawithoutborders__pynwb-811", "neurodatawithoutborders__pynwb-814"], "source": "swerebenchv2", "level": 3, "repo": "NeurodataWithoutBorders/pynwb", "valid": true}
+{"ids": ["aws__chalice-1526", "aws__chalice-1530"], "source": "swerebench", "level": 2, "repo": "aws/chalice", "valid": true}
+{"ids": ["pypa__pipx-1267", "pypa__pipx-1284"], "source": "swerebenchv2", "level": 2, "repo": "pypa/pipx", "valid": true}
+{"ids": ["pybamm-team__pybamm-1020", "pybamm-team__pybamm-1025"], "source": "swerebenchv2", "level": 2, "repo": "pybamm-team/PyBaMM", "valid": true}
+{"ids": ["bluesky__bluesky-darkframes-21", "bluesky__bluesky-darkframes-24"], "source": "swerebench", "level": 2, "repo": "bluesky/bluesky-darkframes", "valid": true}
+{"ids": ["modin-project__modin-6751", "modin-project__modin-6757"], "source": "swerebenchv2", "level": 2, "repo": "modin-project/modin", "valid": true}
+{"ids": ["BaPSF__bapsflib-41"], "source": "swerebench", "level": 1, "repo": "BaPSF/bapsflib", "valid": true}
+{"ids": ["DataDog__dd-trace-py-1054"], "source": "swerebench", "level": 1, "repo": "DataDog/dd-trace-py", "valid": true}
+{"ids": ["AI4S2S__lilio-49", "AI4S2S__lilio-58"], "source": "swerebench", "level": 2, "repo": "AI4S2S/lilio", "valid": true}
+{"ids": ["iterative__dvc-767", "iterative__dvc-777"], "source": "swerebench", "level": 2, "repo": "iterative/dvc", "valid": true}
+{"ids": ["oceanparcels__parcels-476", "oceanparcels__parcels-541"], "source": "swerebenchv2", "level": 2, "repo": "OceanParcels/parcels", "valid": true}
+{"ids": ["PyPSA__linopy-412"], "source": "swerebench", "level": 1, "repo": "PyPSA/linopy", "valid": true}
+{"ids": ["Pylons__colander-321"], "source": "swerebench", "level": 1, "repo": "Pylons/colander", "valid": true}
+{"ids": ["twisted__towncrier-166", "twisted__towncrier-276", "twisted__towncrier-278"], "source": "swerebench", "level": 3, "repo": "twisted/towncrier", "valid": true}
+{"ids": ["getsentry__responses-614", "getsentry__responses-622"], "source": "swerebench", "level": 2, "repo": "getsentry/responses", "valid": true}
+{"ids": ["aws-cloudformation__cfn-lint-3898", "aws-cloudformation__cfn-lint-3900"], "source": "swerebenchv2", "level": 2, "repo": "aws-cloudformation/cfn-lint", "valid": true}
+{"ids": ["Sceptre__sceptre-1219"], "source": "swerebench", "level": 1, "repo": "Sceptre/sceptre", "valid": true}
+{"ids": ["modin-project__modin-6751", "modin-project__modin-6757", "modin-project__modin-6758"], "source": "swerebenchv2", "level": 3, "repo": "modin-project/modin", "valid": true}
+{"ids": ["bvanelli__actualpy-108", "bvanelli__actualpy-117"], "source": "swerebench", "level": 2, "repo": "bvanelli/actualpy", "valid": true}
+{"ids": ["CODAIT__exchange-metadata-converter-25"], "source": "swerebench", "level": 1, "repo": "CODAIT/exchange-metadata-converter", "valid": true}
+{"ids": ["capsulecorplab__mindgraph-22", "capsulecorplab__mindgraph-23"], "source": "swerebench", "level": 2, "repo": "capsulecorplab/mindgraph", "valid": true}
+{"ids": ["tornadoweb__tornado-3488", "tornadoweb__tornado-3489"], "source": "swerebenchv2", "level": 2, "repo": "tornadoweb/tornado", "valid": true}
+{"ids": ["enthought__traits-1550", "enthought__traits-1560"], "source": "swerebenchv2", "level": 2, "repo": "enthought/traits", "valid": true}
+{"ids": ["rochacbruno__dynaconf-292", "rochacbruno__dynaconf-300"], "source": "swerebenchv2", "level": 2, "repo": "rochacbruno/dynaconf", "valid": true}
+{"ids": ["robotpy__cxxheaderparser-98", "robotpy__cxxheaderparser-100", "robotpy__cxxheaderparser-106"], "source": "swerebenchv2", "level": 3, "repo": "robotpy/cxxheaderparser", "valid": true}
+{"ids": ["pytask-dev__pytask-285", "pytask-dev__pytask-287"], "source": "swerebenchv2", "level": 2, "repo": "pytask-dev/pytask", "valid": true}
+{"ids": ["toblerity__shapely-1166", "toblerity__shapely-1174"], "source": "swerebenchv2", "level": 2, "repo": "Toblerity/Shapely", "valid": true}
+{"ids": ["drivendataorg__cloudpathlib-432", "drivendataorg__cloudpathlib-433"], "source": "swerebenchv2", "level": 2, "repo": "drivendataorg/cloudpathlib", "valid": true}
+{"ids": ["fabfuel__ecs-deploy-79", "fabfuel__ecs-deploy-81"], "source": "swerebench", "level": 2, "repo": "fabfuel/ecs-deploy", "valid": true}
+{"ids": ["materials-consortia__optimade-python-tools-547", "materials-consortia__optimade-python-tools-582"], "source": "swerebenchv2", "level": 2, "repo": "Materials-Consortia/optimade-python-tools", "valid": true}
+{"ids": ["FactoryBoy__factory_boy-1067"], "source": "swerebench", "level": 1, "repo": "FactoryBoy/factory_boy", "valid": true}
+{"ids": ["yt-project__unyt-102", "yt-project__unyt-109"], "source": "swerebenchv2", "level": 2, "repo": "yt-project/unyt", "valid": true}
+{"ids": ["aio-libs__aiohttp-8858", "aio-libs__aiohttp-8874"], "source": "swerebenchv2", "level": 2, "repo": "aio-libs/aiohttp", "valid": true}
+{"ids": ["codezonediitj__pydatastructs-165", "codezonediitj__pydatastructs-177", "codezonediitj__pydatastructs-211"], "source": "swerebenchv2", "level": 3, "repo": "codezonediitj/pydatastructs", "valid": true}
+{"ids": ["sdv-dev__rdt-754", "sdv-dev__rdt-755"], "source": "swerebenchv2", "level": 2, "repo": "sdv-dev/RDT", "valid": true}
+{"ids": ["scitools__cartopy-2378", "scitools__cartopy-2407"], "source": "swerebenchv2", "level": 2, "repo": "SciTools/cartopy", "valid": true}
+{"ids": ["alteryx__woodwork-640", "alteryx__woodwork-646"], "source": "swerebenchv2", "level": 2, "repo": "alteryx/woodwork", "valid": true}
+{"ids": ["camptocamp__python-geoservercloud-51", "camptocamp__python-geoservercloud-52"], "source": "swerebench", "level": 2, "repo": "camptocamp/python-geoservercloud", "valid": true}
+{"ids": ["theacodes__nox-472", "theacodes__nox-482", "theacodes__nox-489"], "source": "swerebenchv2", "level": 3, "repo": "theacodes/nox", "valid": true}
+{"ids": ["amaranth-lang__amaranth-1319", "amaranth-lang__amaranth-1328"], "source": "swerebenchv2", "level": 2, "repo": "amaranth-lang/amaranth", "valid": true}
+{"ids": ["jnothman__upsetplot-261", "jnothman__upsetplot-264"], "source": "swerebenchv2", "level": 2, "repo": "jnothman/UpSetPlot", "valid": true}
+{"ids": ["Shopify__shopify_python_api-177"], "source": "swerebench", "level": 1, "repo": "Shopify/shopify_python_api", "valid": true}
+{"ids": ["robotpy__cxxheaderparser-106", "robotpy__cxxheaderparser-108"], "source": "swerebenchv2", "level": 2, "repo": "robotpy/cxxheaderparser", "valid": true}
+{"ids": ["tobymao__sqlglot-2297", "tobymao__sqlglot-2305", "tobymao__sqlglot-2306"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["getmoto__moto-5853", "getmoto__moto-5862"], "source": "swerebenchv2", "level": 2, "repo": "getmoto/moto", "valid": true}
+{"ids": ["Benardi__touvlo-34"], "source": "swerebench", "level": 1, "repo": "Benardi/touvlo", "valid": true}
+{"ids": ["pycqa__pyflakes-729", "pycqa__pyflakes-745"], "source": "swerebenchv2", "level": 2, "repo": "PyCQA/pyflakes", "valid": true}
+{"ids": ["tobymao__sqlglot-2293", "tobymao__sqlglot-2295", "tobymao__sqlglot-2296"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["iterative__dvc-4196", "iterative__dvc-4204"], "source": "swerebench", "level": 2, "repo": "iterative/dvc", "valid": true}
+{"ids": ["meltano__sdk-1864", "meltano__sdk-1880", "meltano__sdk-1881"], "source": "swerebenchv2", "level": 3, "repo": "meltano/sdk", "valid": true}
+{"ids": ["vmware__tern-250", "vmware__tern-255", "vmware__tern-259"], "source": "swerebenchv2", "level": 3, "repo": "vmware/tern", "valid": true}
+{"ids": ["openmdao__openmdao-3519", "openmdao__openmdao-3522"], "source": "swerebenchv2", "level": 2, "repo": "OpenMDAO/OpenMDAO", "valid": true}
+{"ids": ["python-markdown__markdown-743", "python-markdown__markdown-785"], "source": "swerebenchv2", "level": 2, "repo": "Python-Markdown/markdown", "valid": true}
+{"ids": ["tox-dev__pipdeptree-195", "tox-dev__pipdeptree-239"], "source": "swerebenchv2", "level": 2, "repo": "tox-dev/pipdeptree", "valid": true}
+{"ids": ["omni-us__jsonargparse-560", "omni-us__jsonargparse-562", "omni-us__jsonargparse-564"], "source": "swerebench", "level": 3, "repo": "omni-us/jsonargparse", "valid": true}
+{"ids": ["jamesoff__simplemonitor-539", "jamesoff__simplemonitor-605"], "source": "swerebench", "level": 2, "repo": "jamesoff/simplemonitor", "valid": true}
+{"ids": ["ModellingWebLab__cellmlmanip-167"], "source": "swerebench", "level": 1, "repo": "ModellingWebLab/cellmlmanip", "valid": true}
+{"ids": ["matthewwithanm__python-markdownify-169", "matthewwithanm__python-markdownify-171", "matthewwithanm__python-markdownify-173"], "source": "swerebench", "level": 3, "repo": "matthewwithanm/python-markdownify", "valid": true}
+{"ids": ["getmoto__moto-5873", "getmoto__moto-5876"], "source": "swerebenchv2", "level": 2, "repo": "getmoto/moto", "valid": true}
+{"ids": ["cuthbertlab__music21-1066", "cuthbertlab__music21-1138"], "source": "swerebenchv2", "level": 2, "repo": "cuthbertLab/music21", "valid": true}
+{"ids": ["pycqa__pyflakes-765", "pycqa__pyflakes-772"], "source": "swerebenchv2", "level": 2, "repo": "PyCQA/pyflakes", "valid": true}
+{"ids": ["NVIDIA__hpc-container-maker-244"], "source": "swerebench", "level": 1, "repo": "NVIDIA/hpc-container-maker", "valid": true}
+{"ids": ["openmdao__openmdao-3455", "openmdao__openmdao-3461"], "source": "swerebenchv2", "level": 2, "repo": "OpenMDAO/OpenMDAO", "valid": true}
+{"ids": ["openmdao__openmdao-3098", "openmdao__openmdao-3117"], "source": "swerebenchv2", "level": 2, "repo": "OpenMDAO/OpenMDAO", "valid": true}
+{"ids": ["cs-si__eodag-790", "cs-si__eodag-795"], "source": "swerebenchv2", "level": 2, "repo": "CS-SI/eodag", "valid": true}
+{"ids": ["litestar-org__polyfactory-472", "litestar-org__polyfactory-479"], "source": "swerebenchv2", "level": 2, "repo": "litestar-org/polyfactory", "valid": true}
+{"ids": ["openmdao__openmdao-3098", "openmdao__openmdao-3117", "openmdao__openmdao-3125"], "source": "swerebenchv2", "level": 3, "repo": "OpenMDAO/OpenMDAO", "valid": true}
+{"ids": ["MindscapeHQ__raygun4py-82"], "source": "swerebench", "level": 1, "repo": "MindscapeHQ/raygun4py", "valid": true}
+{"ids": ["rigetticomputing__pyquil-156", "rigetticomputing__pyquil-166"], "source": "swerebenchv2", "level": 2, "repo": "rigetticomputing/pyquil", "valid": true}
+{"ids": ["hylang__hy-2514", "hylang__hy-2522"], "source": "swerebench", "level": 2, "repo": "hylang/hy", "valid": true}
+{"ids": ["amaranth-lang__amaranth-1395", "amaranth-lang__amaranth-1406", "amaranth-lang__amaranth-1420"], "source": "swerebenchv2", "level": 3, "repo": "amaranth-lang/amaranth", "valid": true}
+{"ids": ["pvlib__pvlib-python-278", "pvlib__pvlib-python-304"], "source": "swerebenchv2", "level": 2, "repo": "pvlib/pvlib-python", "valid": true}
+{"ids": ["sdv-dev__rdt-610", "sdv-dev__rdt-622"], "source": "swerebenchv2", "level": 2, "repo": "sdv-dev/RDT", "valid": true}
+{"ids": ["pyccel__pyccel-2072", "pyccel__pyccel-2082"], "source": "swerebenchv2", "level": 2, "repo": "pyccel/pyccel", "valid": true}
+{"ids": ["delgan__loguru-1303", "delgan__loguru-1304"], "source": "swerebenchv2", "level": 2, "repo": "Delgan/loguru", "valid": true}
+{"ids": ["duo-labs__py_webauthn-120", "duo-labs__py_webauthn-129"], "source": "swerebench", "level": 2, "repo": "duo-labs/py_webauthn", "valid": true}
+{"ids": ["modin-project__modin-6785", "modin-project__modin-6787"], "source": "swerebenchv2", "level": 2, "repo": "modin-project/modin", "valid": true}
+{"ids": ["narwhals-dev__narwhals-1803", "narwhals-dev__narwhals-1810"], "source": "swerebenchv2", "level": 2, "repo": "narwhals-dev/narwhals", "valid": true}
+{"ids": ["getmoto__moto-6022", "getmoto__moto-6028", "getmoto__moto-6038"], "source": "swerebenchv2", "level": 3, "repo": "getmoto/moto", "valid": true}
+{"ids": ["researchobject__ro-crate-py-149", "researchobject__ro-crate-py-152"], "source": "swerebenchv2", "level": 2, "repo": "ResearchObject/ro-crate-py", "valid": true}
+{"ids": ["dwavesystems__dwave-cloud-client-650", "dwavesystems__dwave-cloud-client-651"], "source": "swerebench", "level": 2, "repo": "dwavesystems/dwave-cloud-client", "valid": true}
+{"ids": ["Colin-b__requests_auth-50"], "source": "swerebench", "level": 1, "repo": "Colin-b/requests_auth", "valid": true}
+{"ids": ["sdispater__tomlkit-82", "sdispater__tomlkit-103"], "source": "swerebenchv2", "level": 2, "repo": "sdispater/tomlkit", "valid": true}
+{"ids": ["joke2k__faker-1887", "joke2k__faker-1946"], "source": "swerebenchv2", "level": 2, "repo": "joke2k/faker", "valid": true}
+{"ids": ["nchammas__flintrock-180", "nchammas__flintrock-186"], "source": "swerebenchv2", "level": 2, "repo": "nchammas/flintrock", "valid": true}
+{"ids": ["cs-si__eodag-566", "cs-si__eodag-576"], "source": "swerebenchv2", "level": 2, "repo": "CS-SI/eodag", "valid": true}
+{"ids": ["zalando__patroni-2304", "zalando__patroni-2308"], "source": "swerebenchv2", "level": 2, "repo": "zalando/patroni", "valid": true}
+{"ids": ["ESSS__oop-ext-21"], "source": "swerebench", "level": 1, "repo": "ESSS/oop-ext", "valid": true}
+{"ids": ["tornadoweb__tornado-3477", "tornadoweb__tornado-3488", "tornadoweb__tornado-3489"], "source": "swerebenchv2", "level": 3, "repo": "tornadoweb/tornado", "valid": true}
+{"ids": ["tornadoweb__tornado-3477", "tornadoweb__tornado-3488"], "source": "swerebenchv2", "level": 2, "repo": "tornadoweb/tornado", "valid": true}
+{"ids": ["pycqa__pyflakes-619", "pycqa__pyflakes-632"], "source": "swerebenchv2", "level": 2, "repo": "PyCQA/pyflakes", "valid": true}
+{"ids": ["MIT-LCP__wfdb-python-492"], "source": "swerebench", "level": 1, "repo": "MIT-LCP/wfdb-python", "valid": true}
+{"ids": ["googlecloudplatform__cloud-sql-python-connector-475", "googlecloudplatform__cloud-sql-python-connector-476"], "source": "swerebenchv2", "level": 2, "repo": "GoogleCloudPlatform/cloud-sql-python-connector", "valid": true}
+{"ids": ["qiskit__qiskit-terra-7952", "qiskit__qiskit-terra-7970"], "source": "swerebenchv2", "level": 2, "repo": "Qiskit/qiskit-terra", "valid": true}
+{"ids": ["QuickPay__quickpay-python-client-13"], "source": "swerebench", "level": 1, "repo": "QuickPay/quickpay-python-client", "valid": true}
+{"ids": ["copier-org__copier-2032", "copier-org__copier-2067"], "source": "swerebenchv2", "level": 2, "repo": "copier-org/copier", "valid": true}
+{"ids": ["s-knibbs__dataclasses-jsonschema-101", "s-knibbs__dataclasses-jsonschema-104"], "source": "swerebenchv2", "level": 2, "repo": "s-knibbs/dataclasses-jsonschema", "valid": true}
+{"ids": ["aio-libs__yarl-1414", "aio-libs__yarl-1421"], "source": "swerebench", "level": 2, "repo": "aio-libs/yarl", "valid": true}
+{"ids": ["python-attrs__attrs-760", "python-attrs__attrs-763", "python-attrs__attrs-770"], "source": "swerebenchv2", "level": 3, "repo": "python-attrs/attrs", "valid": true}
+{"ids": ["virtuslab__git-machete-487", "virtuslab__git-machete-525"], "source": "swerebenchv2", "level": 2, "repo": "VirtusLab/git-machete", "valid": true}
+{"ids": ["ipython__ipykernel-1049", "ipython__ipykernel-1051", "ipython__ipykernel-1056"], "source": "swerebench", "level": 3, "repo": "ipython/ipykernel", "valid": true}
+{"ids": ["crossgl__crosstl-202", "crossgl__crosstl-207"], "source": "swerebenchv2", "level": 2, "repo": "CrossGL/crosstl", "valid": true}
+{"ids": ["python-attrs__attrs-500", "python-attrs__attrs-556"], "source": "swerebenchv2", "level": 2, "repo": "python-attrs/attrs", "valid": true}
+{"ids": ["MatterMiners__tardis-119"], "source": "swerebench", "level": 1, "repo": "MatterMiners/tardis", "valid": true}
+{"ids": ["PaccMann__paccmann_datasets-13"], "source": "swerebench", "level": 1, "repo": "PaccMann/paccmann_datasets", "valid": true}
+{"ids": ["pycqa__pyflakes-765", "pycqa__pyflakes-772", "pycqa__pyflakes-801"], "source": "swerebenchv2", "level": 3, "repo": "PyCQA/pyflakes", "valid": true}
+{"ids": ["pylons__pyramid-3576", "pylons__pyramid-3598"], "source": "swerebenchv2", "level": 2, "repo": "Pylons/pyramid", "valid": true}
+{"ids": ["ipython__traitlets-629", "ipython__traitlets-630"], "source": "swerebenchv2", "level": 2, "repo": "ipython/traitlets", "valid": true}
+{"ids": ["JoaquinAmatRodrigo__skforecast-819"], "source": "swerebench", "level": 1, "repo": "JoaquinAmatRodrigo/skforecast", "valid": true}
+{"ids": ["aws__chalice-1537", "aws__chalice-1539"], "source": "swerebench", "level": 2, "repo": "aws/chalice", "valid": true}
+{"ids": ["warpnet__salt-lint-207", "warpnet__salt-lint-209"], "source": "swerebenchv2", "level": 2, "repo": "warpnet/salt-lint", "valid": true}
+{"ids": ["highcharts-for-python__highcharts-core-79", "highcharts-for-python__highcharts-core-83"], "source": "swerebenchv2", "level": 2, "repo": "highcharts-for-python/highcharts-core", "valid": true}
+{"ids": ["MasoniteFramework__core-16"], "source": "swerebench", "level": 1, "repo": "MasoniteFramework/core", "valid": true}
+{"ids": ["sdv-dev__rdt-731", "sdv-dev__rdt-741"], "source": "swerebenchv2", "level": 2, "repo": "sdv-dev/RDT", "valid": true}
+{"ids": ["samuelcolvin__pydantic-3707", "samuelcolvin__pydantic-4064"], "source": "swerebenchv2", "level": 2, "repo": "samuelcolvin/pydantic", "valid": true}
+{"ids": ["aeye-lab__pymovements-486", "aeye-lab__pymovements-542"], "source": "swerebenchv2", "level": 2, "repo": "aeye-lab/pymovements", "valid": true}
+{"ids": ["sebrut__pygrocy-96", "sebrut__pygrocy-98"], "source": "swerebenchv2", "level": 2, "repo": "SebRut/pygrocy", "valid": true}
+{"ids": ["openmined__pysyft-391", "openmined__pysyft-392"], "source": "swerebenchv2", "level": 2, "repo": "OpenMined/PySyft", "valid": true}
+{"ids": ["ethereum__web3.py-3662", "ethereum__web3.py-3663"], "source": "swerebenchv2", "level": 2, "repo": "ethereum/web3.py", "valid": true}
+{"ids": ["rhayes777__pyautofit-857", "rhayes777__pyautofit-864"], "source": "swerebenchv2", "level": 2, "repo": "rhayes777/PyAutoFit", "valid": true}
+{"ids": ["djrobstep__sqlakeyset-96", "djrobstep__sqlakeyset-98"], "source": "swerebenchv2", "level": 2, "repo": "djrobstep/sqlakeyset", "valid": true}
+{"ids": ["textualize__rich-2225", "textualize__rich-2226"], "source": "swerebenchv2", "level": 2, "repo": "Textualize/rich", "valid": true}
+{"ids": ["drivendataorg__cloudpathlib-433", "drivendataorg__cloudpathlib-437"], "source": "swerebenchv2", "level": 2, "repo": "drivendataorg/cloudpathlib", "valid": true}
+{"ids": ["theacodes__nox-310", "theacodes__nox-312"], "source": "swerebenchv2", "level": 2, "repo": "theacodes/nox", "valid": true}
+{"ids": ["robotpy__cxxheaderparser-8", "robotpy__cxxheaderparser-27"], "source": "swerebenchv2", "level": 2, "repo": "robotpy/cxxheaderparser", "valid": true}
+{"ids": ["pycqa__pyflakes-606", "pycqa__pyflakes-609", "pycqa__pyflakes-619"], "source": "swerebenchv2", "level": 3, "repo": "PyCQA/pyflakes", "valid": true}
+{"ids": ["Ch00k__ffmpy-84"], "source": "swerebench", "level": 1, "repo": "Ch00k/ffmpy", "valid": true}
+{"ids": ["jelmer__dulwich-1482", "jelmer__dulwich-1500"], "source": "swerebenchv2", "level": 2, "repo": "jelmer/dulwich", "valid": true}
+{"ids": ["just-work__fffw-68", "just-work__fffw-70"], "source": "swerebench", "level": 2, "repo": "just-work/fffw", "valid": true}
+{"ids": ["NREL__hescore-hpxml-113", "NREL__hescore-hpxml-115"], "source": "swerebench", "level": 2, "repo": "NREL/hescore-hpxml", "valid": true}
+{"ids": ["pypa__packaging-690", "pypa__packaging-711"], "source": "swerebenchv2", "level": 2, "repo": "pypa/packaging", "valid": true}
+{"ids": ["amoffat__sh-545", "amoffat__sh-584", "amoffat__sh-598"], "source": "swerebenchv2", "level": 3, "repo": "amoffat/sh", "valid": true}
+{"ids": ["encode__httpx-861", "encode__httpx-883"], "source": "swerebench", "level": 2, "repo": "encode/httpx", "valid": true}
+{"ids": ["RightBrain-Networks__auto-semver-51"], "source": "swerebench", "level": 1, "repo": "RightBrain-Networks/auto-semver", "valid": true}
+{"ids": ["pyqtgraph__pyqtgraph-1764", "pyqtgraph__pyqtgraph-1765"], "source": "swerebenchv2", "level": 2, "repo": "pyqtgraph/pyqtgraph", "valid": true}
+{"ids": ["CybOXProject__mixbox-35"], "source": "swerebench", "level": 1, "repo": "CybOXProject/mixbox", "valid": true}
+{"ids": ["amaranth-lang__amaranth-981", "amaranth-lang__amaranth-989"], "source": "swerebenchv2", "level": 2, "repo": "amaranth-lang/amaranth", "valid": true}
+{"ids": ["Qiskit__qiskit-bot-11"], "source": "swerebench", "level": 1, "repo": "Qiskit/qiskit-bot", "valid": true}
+{"ids": ["sdv-dev__rdt-917", "sdv-dev__rdt-933", "sdv-dev__rdt-942"], "source": "swerebenchv2", "level": 3, "repo": "sdv-dev/RDT", "valid": true}
+{"ids": ["gitpython-developers__gitpython-1224", "gitpython-developers__gitpython-1264"], "source": "swerebenchv2", "level": 2, "repo": "gitpython-developers/GitPython", "valid": true}
+{"ids": ["PEtab-dev__libpetab-python-152"], "source": "swerebench", "level": 1, "repo": "PEtab-dev/libpetab-python", "valid": true}
+{"ids": ["copier-org__copier-2007", "copier-org__copier-2032"], "source": "swerebenchv2", "level": 2, "repo": "copier-org/copier", "valid": true}
+{"ids": ["sdv-dev__rdt-933", "sdv-dev__rdt-942"], "source": "swerebenchv2", "level": 2, "repo": "sdv-dev/RDT", "valid": true}
+{"ids": ["highcharts-for-python__highcharts-core-79", "highcharts-for-python__highcharts-core-83", "highcharts-for-python__highcharts-core-85"], "source": "swerebenchv2", "level": 3, "repo": "highcharts-for-python/highcharts-core", "valid": true}
+{"ids": ["enthought__traits-1100", "enthought__traits-1107", "enthought__traits-1110"], "source": "swerebenchv2", "level": 3, "repo": "enthought/traits", "valid": true}
+{"ids": ["simpeg__simpeg-1548", "simpeg__simpeg-1550"], "source": "swerebenchv2", "level": 2, "repo": "simpeg/simpeg", "valid": true}
+{"ids": ["dlr-eoc__ukis-pysat-37", "dlr-eoc__ukis-pysat-38"], "source": "swerebench", "level": 2, "repo": "dlr-eoc/ukis-pysat", "valid": true}
+{"ids": ["amaranth-lang__amaranth-989", "amaranth-lang__amaranth-991"], "source": "swerebenchv2", "level": 2, "repo": "amaranth-lang/amaranth", "valid": true}
+{"ids": ["kayak__pypika-54", "kayak__pypika-56"], "source": "swerebenchv2", "level": 2, "repo": "kayak/pypika", "valid": true}
+{"ids": ["robotpy__cxxheaderparser-28", "robotpy__cxxheaderparser-29", "robotpy__cxxheaderparser-30"], "source": "swerebenchv2", "level": 3, "repo": "robotpy/cxxheaderparser", "valid": true}
+{"ids": ["beetbox__beets-2775", "beetbox__beets-2776"], "source": "swerebench", "level": 2, "repo": "beetbox/beets", "valid": true}
+{"ids": ["pandas-dev__pandas-57169", "pandas-dev__pandas-57173"], "source": "swerebenchv2", "level": 2, "repo": "pandas-dev/pandas", "valid": true}
+{"ids": ["Viatorus__quom-30", "Viatorus__quom-34"], "source": "swerebench", "level": 2, "repo": "Viatorus/quom", "valid": true}
+{"ids": ["aws-cloudformation__cfn-lint-3060", "aws-cloudformation__cfn-lint-3061"], "source": "swerebenchv2", "level": 2, "repo": "aws-cloudformation/cfn-lint", "valid": true}
+{"ids": ["statsmodels__statsmodels-9016", "statsmodels__statsmodels-9311"], "source": "swerebenchv2", "level": 2, "repo": "statsmodels/statsmodels", "valid": true}
+{"ids": ["di__vladiate-40", "di__vladiate-42"], "source": "swerebench", "level": 2, "repo": "di/vladiate", "valid": true}
+{"ids": ["amoffat__sh-584", "amoffat__sh-598"], "source": "swerebenchv2", "level": 2, "repo": "amoffat/sh", "valid": true}
+{"ids": ["pandas-dev__pandas-57173", "pandas-dev__pandas-57174"], "source": "swerebenchv2", "level": 2, "repo": "pandas-dev/pandas", "valid": true}
+{"ids": ["dai-lab__copulas-76", "dai-lab__copulas-78"], "source": "swerebenchv2", "level": 2, "repo": "DAI-Lab/Copulas", "valid": true}
+{"ids": ["cocagne__pysrp-48", "cocagne__pysrp-51"], "source": "swerebench", "level": 2, "repo": "cocagne/pysrp", "valid": true}
+{"ids": ["google__google-api-python-client-465", "google__google-api-python-client-467", "google__google-api-python-client-546"], "source": "swerebenchv2", "level": 3, "repo": "google/google-api-python-client", "valid": true}
+{"ids": ["opensistemas-hub__osbrain-247", "opensistemas-hub__osbrain-281"], "source": "swerebenchv2", "level": 2, "repo": "opensistemas-hub/osbrain", "valid": true}
+{"ids": ["mie-lab__trackintel-311", "mie-lab__trackintel-322"], "source": "swerebenchv2", "level": 2, "repo": "mie-lab/trackintel", "valid": true}
+{"ids": ["crossgl__crosstl-201", "crossgl__crosstl-202"], "source": "swerebenchv2", "level": 2, "repo": "CrossGL/crosstl", "valid": true}
+{"ids": ["kayak__pypika-236", "kayak__pypika-242"], "source": "swerebenchv2", "level": 2, "repo": "kayak/pypika", "valid": true}
+{"ids": ["jlowin__fastmcp-128", "jlowin__fastmcp-129"], "source": "swerebenchv2", "level": 2, "repo": "jlowin/fastmcp", "valid": true}
+{"ids": ["yelp__bravado-core-165", "yelp__bravado-core-183"], "source": "swerebenchv2", "level": 2, "repo": "Yelp/bravado-core", "valid": true}
+{"ids": ["GenericMappingTools__pygmt-574", "GenericMappingTools__pygmt-575", "GenericMappingTools__pygmt-619"], "source": "swerebench", "level": 3, "repo": "GenericMappingTools/pygmt", "valid": true}
+{"ids": ["NeuralEnsemble__python-neo-1297"], "source": "swerebench", "level": 1, "repo": "NeuralEnsemble/python-neo", "valid": true}
+{"ids": ["NCAS-CMS__cfdm-114"], "source": "swerebench", "level": 1, "repo": "NCAS-CMS/cfdm", "valid": true}
+{"ids": ["enthought__traits-509", "enthought__traits-510"], "source": "swerebenchv2", "level": 2, "repo": "enthought/traits", "valid": true}
+{"ids": ["GenericMappingTools__pygmt-1258"], "source": "swerebench", "level": 1, "repo": "GenericMappingTools/pygmt", "valid": true}
+{"ids": ["codezonediitj__pydatastructs-152", "codezonediitj__pydatastructs-163"], "source": "swerebenchv2", "level": 2, "repo": "codezonediitj/pydatastructs", "valid": true}
+{"ids": ["s-knibbs__dataclasses-jsonschema-82", "s-knibbs__dataclasses-jsonschema-85"], "source": "swerebenchv2", "level": 2, "repo": "s-knibbs/dataclasses-jsonschema", "valid": true}
+{"ids": ["aristanetworks__anta-1008", "aristanetworks__anta-1019"], "source": "swerebenchv2", "level": 2, "repo": "aristanetworks/anta", "valid": true}
+{"ids": ["enthought__traits-1397", "enthought__traits-1440"], "source": "swerebenchv2", "level": 2, "repo": "enthought/traits", "valid": true}
+{"ids": ["BurnzZ__scrapy-loader-upkeep-3"], "source": "swerebench", "level": 1, "repo": "BurnzZ/scrapy-loader-upkeep", "valid": true}
+{"ids": ["tornadoweb__tornado-3436", "tornadoweb__tornado-3477", "tornadoweb__tornado-3488"], "source": "swerebenchv2", "level": 3, "repo": "tornadoweb/tornado", "valid": true}
+{"ids": ["ecmwf__earthkit-data-275", "ecmwf__earthkit-data-283"], "source": "swerebenchv2", "level": 2, "repo": "ecmwf/earthkit-data", "valid": true}
+{"ids": ["narwhals-dev__narwhals-1625", "narwhals-dev__narwhals-1715"], "source": "swerebenchv2", "level": 2, "repo": "narwhals-dev/narwhals", "valid": true}
+{"ids": ["aiogram__aiogram-1674", "aiogram__aiogram-1686"], "source": "swerebenchv2", "level": 2, "repo": "aiogram/aiogram", "valid": true}
+{"ids": ["d0c-s4vage__pfp-121", "d0c-s4vage__pfp-123", "d0c-s4vage__pfp-126"], "source": "swerebenchv2", "level": 3, "repo": "d0c-s4vage/pfp", "valid": true}
+{"ids": ["Duke-GCB__lando-155"], "source": "swerebench", "level": 1, "repo": "Duke-GCB/lando", "valid": true}
+{"ids": ["ARMmbed__greentea-263"], "source": "swerebench", "level": 1, "repo": "ARMmbed/greentea", "valid": true}
+{"ids": ["astanin__python-tabulate-139", "astanin__python-tabulate-151"], "source": "swerebench", "level": 2, "repo": "astanin/python-tabulate", "valid": true}
+{"ids": ["MushroomMaula__fastapi_login-48"], "source": "swerebench", "level": 1, "repo": "MushroomMaula/fastapi_login", "valid": true}
+{"ids": ["DKISTDC__dkist-340"], "source": "swerebench", "level": 1, "repo": "DKISTDC/dkist", "valid": true}
+{"ids": ["jackdewinter__pymarkdown-1248", "jackdewinter__pymarkdown-1251"], "source": "swerebench", "level": 2, "repo": "jackdewinter/pymarkdown", "valid": true}
+{"ids": ["Open-EO__openeo-python-client-669"], "source": "swerebench", "level": 1, "repo": "Open-EO/openeo-python-client", "valid": true}
+{"ids": ["Parquery__swagger-to-141"], "source": "swerebench", "level": 1, "repo": "Parquery/swagger-to", "valid": true}
+{"ids": ["brazilian-utils__brutils-python-124", "brazilian-utils__brutils-python-125", "brazilian-utils__brutils-python-126"], "source": "swerebenchv2", "level": 3, "repo": "brazilian-utils/brutils-python", "valid": true}
+{"ids": ["PaulSchweizer__flowpipe-127"], "source": "swerebench", "level": 1, "repo": "PaulSchweizer/flowpipe", "valid": true}
+{"ids": ["MaineKuehn__usim-81", "MaineKuehn__usim-85"], "source": "swerebench", "level": 2, "repo": "MaineKuehn/usim", "valid": true}
+{"ids": ["Shoobx__xmldiff-117"], "source": "swerebench", "level": 1, "repo": "Shoobx/xmldiff", "valid": true}
+{"ids": ["Azure__pykusto-159"], "source": "swerebench", "level": 1, "repo": "Azure/pykusto", "valid": true}
+{"ids": ["horejsek__python-fastjsonschema-88", "horejsek__python-fastjsonschema-112", "horejsek__python-fastjsonschema-116"], "source": "swerebench", "level": 3, "repo": "horejsek/python-fastjsonschema", "valid": true}
+{"ids": ["tobymao__sqlglot-3937", "tobymao__sqlglot-3954", "tobymao__sqlglot-3971"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["deshima-dev__decode-14", "deshima-dev__decode-16"], "source": "swerebench", "level": 2, "repo": "deshima-dev/decode", "valid": true}
+{"ids": ["tobymao__sqlglot-4130", "tobymao__sqlglot-4141", "tobymao__sqlglot-4148"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["pycqa__pyflakes-761", "pycqa__pyflakes-765", "pycqa__pyflakes-772"], "source": "swerebenchv2", "level": 3, "repo": "PyCQA/pyflakes", "valid": true}
+{"ids": ["ifosch__accloudtant-82", "ifosch__accloudtant-88"], "source": "swerebench", "level": 2, "repo": "ifosch/accloudtant", "valid": true}
+{"ids": ["feder-observatory__stellarphot-298", "feder-observatory__stellarphot-300"], "source": "swerebench", "level": 2, "repo": "feder-observatory/stellarphot", "valid": true}
+{"ids": ["BrandwatchLtd__api_sdk-62"], "source": "swerebench", "level": 1, "repo": "BrandwatchLtd/api_sdk", "valid": true}
+{"ids": ["Netflix-Skunkworks__policyuniverse-147"], "source": "swerebench", "level": 1, "repo": "Netflix-Skunkworks/policyuniverse", "valid": true}
+{"ids": ["NREL__hescore-hpxml-139", "NREL__hescore-hpxml-149", "NREL__hescore-hpxml-152"], "source": "swerebench", "level": 3, "repo": "NREL/hescore-hpxml", "valid": true}
+{"ids": ["ShawHahnLab__igseq-12"], "source": "swerebench", "level": 1, "repo": "ShawHahnLab/igseq", "valid": true}
+{"ids": ["peterbe__hashin-109", "peterbe__hashin-110", "peterbe__hashin-111"], "source": "swerebench", "level": 3, "repo": "peterbe/hashin", "valid": true}
+{"ids": ["ipython__ipython-14693", "ipython__ipython-14695"], "source": "swerebench", "level": 2, "repo": "ipython/ipython", "valid": true}
+{"ids": ["pytorch__ignite-734", "pytorch__ignite-758", "pytorch__ignite-772"], "source": "swerebench", "level": 3, "repo": "pytorch/ignite", "valid": true}
+{"ids": ["PagerDuty__pdpyras-54"], "source": "swerebench", "level": 1, "repo": "PagerDuty/pdpyras", "valid": true}
+{"ids": ["ResearchObject__ro-crate-py-102"], "source": "swerebench", "level": 1, "repo": "ResearchObject/ro-crate-py", "valid": true}
+{"ids": ["HXLStandard__libhxl-python-174"], "source": "swerebench", "level": 1, "repo": "HXLStandard/libhxl-python", "valid": true}
+{"ids": ["Pylons__webob-291"], "source": "swerebench", "level": 1, "repo": "Pylons/webob", "valid": true}
+{"ids": ["horejsek__python-fastjsonschema-88", "horejsek__python-fastjsonschema-112"], "source": "swerebench", "level": 2, "repo": "horejsek/python-fastjsonschema", "valid": true}
+{"ids": ["ilevkivskyi__typing_inspect-74", "ilevkivskyi__typing_inspect-94"], "source": "swerebench", "level": 2, "repo": "ilevkivskyi/typing_inspect", "valid": true}
+{"ids": ["SAP__python-pyodata-232"], "source": "swerebench", "level": 1, "repo": "SAP/python-pyodata", "valid": true}
+{"ids": ["ReproNim__reproman-436"], "source": "swerebench", "level": 1, "repo": "ReproNim/reproman", "valid": true}
+{"ids": ["ilevkivskyi__typing_inspect-71", "ilevkivskyi__typing_inspect-74", "ilevkivskyi__typing_inspect-94"], "source": "swerebench", "level": 3, "repo": "ilevkivskyi/typing_inspect", "valid": true}
+{"ids": ["Fatal1ty__mashumaro-122", "Fatal1ty__mashumaro-127", "Fatal1ty__mashumaro-128"], "source": "swerebench", "level": 3, "repo": "Fatal1ty/mashumaro", "valid": true}
+{"ids": ["reata__sqllineage-38", "reata__sqllineage-40", "reata__sqllineage-41"], "source": "swerebench", "level": 3, "repo": "reata/sqllineage", "valid": true}
+{"ids": ["RadioAstronomySoftwareGroup__pyuvdata-642"], "source": "swerebench", "level": 1, "repo": "RadioAstronomySoftwareGroup/pyuvdata", "valid": true}
+{"ids": ["MycroftAI__lingua-franca-10"], "source": "swerebench", "level": 1, "repo": "MycroftAI/lingua-franca", "valid": true}
+{"ids": ["fsspec__universal_pathlib-261", "fsspec__universal_pathlib-262", "fsspec__universal_pathlib-264"], "source": "swerebenchv2", "level": 3, "repo": "fsspec/universal_pathlib", "valid": true}
+{"ids": ["reata__sqllineage-493", "reata__sqllineage-494", "reata__sqllineage-495"], "source": "swerebench", "level": 3, "repo": "reata/sqllineage", "valid": true}
+{"ids": ["pyccel__pyccel-2114", "pyccel__pyccel-2118", "pyccel__pyccel-2143"], "source": "swerebenchv2", "level": 3, "repo": "pyccel/pyccel", "valid": true}
+{"ids": ["PennChopMicrobiomeProgram__illqc-17"], "source": "swerebench", "level": 1, "repo": "PennChopMicrobiomeProgram/illqc", "valid": true}
+{"ids": ["EvoluxBR__greenswitch-83"], "source": "swerebench", "level": 1, "repo": "EvoluxBR/greenswitch", "valid": true}
+{"ids": ["biocore__biom-format-921", "biocore__biom-format-922", "biocore__biom-format-923"], "source": "swerebenchv2", "level": 3, "repo": "biocore/biom-format", "valid": true}
+{"ids": ["kaste__mockito-python-34", "kaste__mockito-python-54"], "source": "swerebench", "level": 2, "repo": "kaste/mockito-python", "valid": true}
+{"ids": ["CoffeaTeam__coffea-572"], "source": "swerebench", "level": 1, "repo": "CoffeaTeam/coffea", "valid": true}
+{"ids": ["matthewwithanm__python-markdownify-150", "matthewwithanm__python-markdownify-165", "matthewwithanm__python-markdownify-167"], "source": "swerebench", "level": 3, "repo": "matthewwithanm/python-markdownify", "valid": true}
+{"ids": ["M0r13n__pyais-122"], "source": "swerebench", "level": 1, "repo": "M0r13n/pyais", "valid": true}
+{"ids": ["jpadilla__pyjwt-670", "jpadilla__pyjwt-673"], "source": "swerebench", "level": 2, "repo": "jpadilla/pyjwt", "valid": true}
+{"ids": ["CartoDB__cartoframes-379"], "source": "swerebench", "level": 1, "repo": "CartoDB/cartoframes", "valid": true}
+{"ids": ["jboss-dockerfiles__dogen-149", "jboss-dockerfiles__dogen-196"], "source": "swerebench", "level": 2, "repo": "jboss-dockerfiles/dogen", "valid": true}
+{"ids": ["s-knibbs__dataclasses-jsonschema-93", "s-knibbs__dataclasses-jsonschema-96", "s-knibbs__dataclasses-jsonschema-101"], "source": "swerebenchv2", "level": 3, "repo": "s-knibbs/dataclasses-jsonschema", "valid": true}
+{"ids": ["tobymao__sqlglot-3935", "tobymao__sqlglot-3937", "tobymao__sqlglot-3954"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["Scille__umongo-170"], "source": "swerebench", "level": 1, "repo": "Scille/umongo", "valid": true}
+{"ids": ["ipython__traitlets-629", "ipython__traitlets-630", "ipython__traitlets-670"], "source": "swerebenchv2", "level": 3, "repo": "ipython/traitlets", "valid": true}
+{"ids": ["jazzband__tablib-490", "jazzband__tablib-497", "jazzband__tablib-510"], "source": "swerebenchv2", "level": 3, "repo": "jazzband/tablib", "valid": true}
+{"ids": ["Becksteinlab__numkit-8"], "source": "swerebench", "level": 1, "repo": "Becksteinlab/numkit", "valid": true}
+{"ids": ["bvanelli__actualpy-47", "bvanelli__actualpy-55"], "source": "swerebench", "level": 2, "repo": "bvanelli/actualpy", "valid": true}
+{"ids": ["DOV-Vlaanderen__pydov-211"], "source": "swerebench", "level": 1, "repo": "DOV-Vlaanderen/pydov", "valid": true}
+{"ids": ["ASFHyP3__hyp3-sdk-53"], "source": "swerebench", "level": 1, "repo": "ASFHyP3/hyp3-sdk", "valid": true}
+{"ids": ["mpmath__mpmath-916", "mpmath__mpmath-922", "mpmath__mpmath-925"], "source": "swerebenchv2", "level": 3, "repo": "mpmath/mpmath", "valid": true}
+{"ids": ["Duke-GCB__bespin-cli-15", "Duke-GCB__bespin-cli-16", "Duke-GCB__bespin-cli-18"], "source": "swerebench", "level": 3, "repo": "Duke-GCB/bespin-cli", "valid": true}
+{"ids": ["d0c-s4vage__pfp-114", "d0c-s4vage__pfp-116", "d0c-s4vage__pfp-121"], "source": "swerebenchv2", "level": 3, "repo": "d0c-s4vage/pfp", "valid": true}
+{"ids": ["MaxGhenis__microdf-80"], "source": "swerebench", "level": 1, "repo": "MaxGhenis/microdf", "valid": true}
+{"ids": ["LLNL__hatchet-279", "LLNL__hatchet-294"], "source": "swerebench", "level": 2, "repo": "LLNL/hatchet", "valid": true}
+{"ids": ["Parquery__icontract-112"], "source": "swerebench", "level": 1, "repo": "Parquery/icontract", "valid": true}
+{"ids": ["ESSS__barril-46"], "source": "swerebench", "level": 1, "repo": "ESSS/barril", "valid": true}
+{"ids": ["tobymao__sqlglot-550", "tobymao__sqlglot-552", "tobymao__sqlglot-555"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["larq__zookeeper-228", "larq__zookeeper-241"], "source": "swerebench", "level": 2, "repo": "larq/zookeeper", "valid": true}
+{"ids": ["cekit__cekit-874", "cekit__cekit-877"], "source": "swerebench", "level": 2, "repo": "cekit/cekit", "valid": true}
+{"ids": ["tobymao__sqlglot-1627", "tobymao__sqlglot-1640", "tobymao__sqlglot-1642"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["maas__python-libmaas-225", "maas__python-libmaas-227", "maas__python-libmaas-229"], "source": "swerebenchv2", "level": 3, "repo": "maas/python-libmaas", "valid": true}
+{"ids": ["Fatal1ty__mashumaro-127", "Fatal1ty__mashumaro-128"], "source": "swerebench", "level": 2, "repo": "Fatal1ty/mashumaro", "valid": true}
+{"ids": ["CORE-GATECH-GROUP__serpent-tools-24"], "source": "swerebench", "level": 1, "repo": "CORE-GATECH-GROUP/serpent-tools", "valid": true}
+{"ids": ["SAP__data-attribute-recommendation-python-sdk-69"], "source": "swerebench", "level": 1, "repo": "SAP/data-attribute-recommendation-python-sdk", "valid": true}
+{"ids": ["LordGolias__sqf-47"], "source": "swerebench", "level": 1, "repo": "LordGolias/sqf", "valid": true}
+{"ids": ["Alexei-Kornienko__schematics_to_swagger-7"], "source": "swerebench", "level": 1, "repo": "Alexei-Kornienko/schematics_to_swagger", "valid": true}
+{"ids": ["scikit-build__scikit-build-core-602", "scikit-build__scikit-build-core-612", "scikit-build__scikit-build-core-640"], "source": "swerebenchv2", "level": 3, "repo": "scikit-build/scikit-build-core", "valid": true}
+{"ids": ["Ouranosinc__xclim-214"], "source": "swerebench", "level": 1, "repo": "Ouranosinc/xclim", "valid": true}
+{"ids": ["DataDog__datadog-lambda-python-214"], "source": "swerebench", "level": 1, "repo": "DataDog/datadog-lambda-python", "valid": true}
+{"ids": ["amoffat__sh-584", "amoffat__sh-598", "amoffat__sh-603"], "source": "swerebenchv2", "level": 3, "repo": "amoffat/sh", "valid": true}
+{"ids": ["MAIF__meteole-33"], "source": "swerebench", "level": 1, "repo": "MAIF/meteole", "valid": true}
+{"ids": ["Domain-Connect__domainconnect_python-5"], "source": "swerebench", "level": 1, "repo": "Domain-Connect/domainconnect_python", "valid": true}
+{"ids": ["yukinarit__pyserde-601", "yukinarit__pyserde-618", "yukinarit__pyserde-646"], "source": "swerebenchv2", "level": 3, "repo": "yukinarit/pyserde", "valid": true}
+{"ids": ["Parquery__icontract-114", "Parquery__icontract-115"], "source": "swerebench", "level": 2, "repo": "Parquery/icontract", "valid": true}
+{"ids": ["DataBiosphere__toil-4805"], "source": "swerebench", "level": 1, "repo": "DataBiosphere/toil", "valid": true}
+{"ids": ["CodeForPhilly__chime-418"], "source": "swerebench", "level": 1, "repo": "CodeForPhilly/chime", "valid": true}
+{"ids": ["brazilian-utils__brutils-python-52", "brazilian-utils__brutils-python-54", "brazilian-utils__brutils-python-57"], "source": "swerebenchv2", "level": 3, "repo": "brazilian-utils/brutils-python", "valid": true}
+{"ids": ["Ouranosinc__xclim-347", "Ouranosinc__xclim-349"], "source": "swerebench", "level": 2, "repo": "Ouranosinc/xclim", "valid": true}
+{"ids": ["Point72__ccflow-24"], "source": "swerebench", "level": 1, "repo": "Point72/ccflow", "valid": true}
+{"ids": ["ipython__ipykernel-1051", "ipython__ipykernel-1056", "ipython__ipykernel-1061"], "source": "swerebench", "level": 3, "repo": "ipython/ipykernel", "valid": true}
+{"ids": ["fitbenchmarking__fitbenchmarking-1110", "fitbenchmarking__fitbenchmarking-1119"], "source": "swerebench", "level": 2, "repo": "fitbenchmarking/fitbenchmarking", "valid": true}
+{"ids": ["neovasili__tflens-34", "neovasili__tflens-35", "neovasili__tflens-36"], "source": "swerebench", "level": 3, "repo": "neovasili/tflens", "valid": true}
+{"ids": ["Nike-Inc__gimme-aws-creds-464"], "source": "swerebench", "level": 1, "repo": "Nike-Inc/gimme-aws-creds", "valid": true}
+{"ids": ["Chilipp__autodocsumm-101"], "source": "swerebench", "level": 1, "repo": "Chilipp/autodocsumm", "valid": true}
+{"ids": ["LSSTDESC__sacc-79"], "source": "swerebench", "level": 1, "repo": "LSSTDESC/sacc", "valid": true}
+{"ids": ["DevoInc__python-sdk-109", "DevoInc__python-sdk-113"], "source": "swerebench", "level": 2, "repo": "DevoInc/python-sdk", "valid": true}
+{"ids": ["codalab__codalab-worksheets-3343", "codalab__codalab-worksheets-3393"], "source": "swerebench", "level": 2, "repo": "codalab/codalab-worksheets", "valid": true}
+{"ids": ["copier-org__copier-2007", "copier-org__copier-2032", "copier-org__copier-2067"], "source": "swerebenchv2", "level": 3, "repo": "copier-org/copier", "valid": true}
+{"ids": ["PyPSA__linopy-77", "PyPSA__linopy-79"], "source": "swerebench", "level": 2, "repo": "PyPSA/linopy", "valid": true}
+{"ids": ["tobymao__sqlglot-3425", "tobymao__sqlglot-3426", "tobymao__sqlglot-3436"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["All-Hands-AI__openhands-resolver-123"], "source": "swerebench", "level": 1, "repo": "All-Hands-AI/openhands-resolver", "valid": true}
+{"ids": ["pandas-dev__pandas-59624", "pandas-dev__pandas-59636", "pandas-dev__pandas-59745"], "source": "swerebenchv2", "level": 3, "repo": "pandas-dev/pandas", "valid": true}
+{"ids": ["bradshjg__flask-githubapp-23", "bradshjg__flask-githubapp-25"], "source": "swerebench", "level": 2, "repo": "bradshjg/flask-githubapp", "valid": true}
+{"ids": ["astropy__ccdproc-757", "astropy__ccdproc-762"], "source": "swerebench", "level": 2, "repo": "astropy/ccdproc", "valid": true}
+{"ids": ["ResearchObject__ro-crate-py-163", "ResearchObject__ro-crate-py-166"], "source": "swerebench", "level": 2, "repo": "ResearchObject/ro-crate-py", "valid": true}
+{"ids": ["cunybpl__isdparser-2", "cunybpl__isdparser-4"], "source": "swerebench", "level": 2, "repo": "cunybpl/isdparser", "valid": true}
+{"ids": ["sdv-dev__rdt-715", "sdv-dev__rdt-717", "sdv-dev__rdt-718"], "source": "swerebenchv2", "level": 3, "repo": "sdv-dev/RDT", "valid": true}
+{"ids": ["azure__walinuxagent-542", "azure__walinuxagent-547", "azure__walinuxagent-551"], "source": "swerebenchv2", "level": 3, "repo": "Azure/WALinuxAgent", "valid": true}
+{"ids": ["sdv-dev__rdt-867", "sdv-dev__rdt-872", "sdv-dev__rdt-875"], "source": "swerebenchv2", "level": 3, "repo": "sdv-dev/RDT", "valid": true}
+{"ids": ["RedHatInsights__insights-core-4219"], "source": "swerebench", "level": 1, "repo": "RedHatInsights/insights-core", "valid": true}
+{"ids": ["RockefellerArchiveCenter__rac_aspace-60"], "source": "swerebench", "level": 1, "repo": "RockefellerArchiveCenter/rac_aspace", "valid": true}
+{"ids": ["amaranth-lang__amaranth-806", "amaranth-lang__amaranth-809", "amaranth-lang__amaranth-814"], "source": "swerebenchv2", "level": 3, "repo": "amaranth-lang/amaranth", "valid": true}
+{"ids": ["niconoe__pyinaturalist-71", "niconoe__pyinaturalist-72", "niconoe__pyinaturalist-76"], "source": "swerebenchv2", "level": 3, "repo": "niconoe/pyinaturalist", "valid": true}
+{"ids": ["astropenguin__pandas-dataclasses-109", "astropenguin__pandas-dataclasses-120"], "source": "swerebench", "level": 2, "repo": "astropenguin/pandas-dataclasses", "valid": true}
+{"ids": ["NREL__hescore-hpxml-131", "NREL__hescore-hpxml-137", "NREL__hescore-hpxml-139"], "source": "swerebench", "level": 3, "repo": "NREL/hescore-hpxml", "valid": true}
+{"ids": ["PMEAL__porespy-465"], "source": "swerebench", "level": 1, "repo": "PMEAL/porespy", "valid": true}
+{"ids": ["aio-libs__yarl-959", "aio-libs__yarl-1026"], "source": "swerebench", "level": 2, "repo": "aio-libs/yarl", "valid": true}
+{"ids": ["dask__dask-4756", "dask__dask-4831"], "source": "swerebench", "level": 2, "repo": "dask/dask", "valid": true}
+{"ids": ["sdv-dev__rdt-933", "sdv-dev__rdt-942", "sdv-dev__rdt-960"], "source": "swerebenchv2", "level": 3, "repo": "sdv-dev/RDT", "valid": true}
+{"ids": ["RobinL__fuzzymatcher-50"], "source": "swerebench", "level": 1, "repo": "RobinL/fuzzymatcher", "valid": true}
+{"ids": ["s-knibbs__dataclasses-jsonschema-85", "s-knibbs__dataclasses-jsonschema-86", "s-knibbs__dataclasses-jsonschema-88"], "source": "swerebenchv2", "level": 3, "repo": "s-knibbs/dataclasses-jsonschema", "valid": true}
+{"ids": ["tobymao__sqlglot-4218", "tobymao__sqlglot-4239", "tobymao__sqlglot-4252"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["PyCQA__pyflakes-275"], "source": "swerebench", "level": 1, "repo": "PyCQA/pyflakes", "valid": true}
+{"ids": ["jpadilla__pyjwt-644", "jpadilla__pyjwt-657"], "source": "swerebench", "level": 2, "repo": "jpadilla/pyjwt", "valid": true}
+{"ids": ["Erotemic__ubelt-64"], "source": "swerebench", "level": 1, "repo": "Erotemic/ubelt", "valid": true}
+{"ids": ["Colin-b__keepachangelog-8"], "source": "swerebench", "level": 1, "repo": "Colin-b/keepachangelog", "valid": true}
+{"ids": ["Justintime50__github-archive-33"], "source": "swerebench", "level": 1, "repo": "Justintime50/github-archive", "valid": true}
+{"ids": ["kubernetes-incubator__client-python-78", "kubernetes-incubator__client-python-107", "kubernetes-incubator__client-python-183"], "source": "swerebenchv2", "level": 3, "repo": "kubernetes-incubator/client-python", "valid": true}
+{"ids": ["hhatto__autopep8-464", "hhatto__autopep8-466"], "source": "swerebench", "level": 2, "repo": "hhatto/autopep8", "valid": true}
+{"ids": ["Materials-Consortia__optimade-python-tools-1001"], "source": "swerebench", "level": 1, "repo": "Materials-Consortia/optimade-python-tools", "valid": true}
+{"ids": ["Deltares__pyflwdir-18"], "source": "swerebench", "level": 1, "repo": "Deltares/pyflwdir", "valid": true}
+{"ids": ["pycqa__pyflakes-325", "pycqa__pyflakes-335", "pycqa__pyflakes-371"], "source": "swerebenchv2", "level": 3, "repo": "PyCQA/pyflakes", "valid": true}
+{"ids": ["JelleZijlstra__ast_decompiler-34"], "source": "swerebench", "level": 1, "repo": "JelleZijlstra/ast_decompiler", "valid": true}
+{"ids": ["GenericMappingTools__pygmt-574", "GenericMappingTools__pygmt-575"], "source": "swerebench", "level": 2, "repo": "GenericMappingTools/pygmt", "valid": true}
+{"ids": ["childsish__dynamic-yaml-6", "childsish__dynamic-yaml-18"], "source": "swerebench", "level": 2, "repo": "childsish/dynamic-yaml", "valid": true}
+{"ids": ["dask__dask-3254", "dask__dask-3301"], "source": "swerebench", "level": 2, "repo": "dask/dask", "valid": true}
+{"ids": ["alexander-akhmetov__python-telegram-168", "alexander-akhmetov__python-telegram-208"], "source": "swerebench", "level": 2, "repo": "alexander-akhmetov/python-telegram", "valid": true}
+{"ids": ["cs-si__eodag-790", "cs-si__eodag-795", "cs-si__eodag-802"], "source": "swerebenchv2", "level": 3, "repo": "CS-SI/eodag", "valid": true}
+{"ids": ["Abjad__abjad-ext-nauert-24"], "source": "swerebench", "level": 1, "repo": "Abjad/abjad-ext-nauert", "valid": true}
+{"ids": ["neogeny__tatsu-102", "neogeny__tatsu-103", "neogeny__tatsu-104"], "source": "swerebenchv2", "level": 3, "repo": "neogeny/TatSu", "valid": true}
+{"ids": ["virtuslab__git-machete-487", "virtuslab__git-machete-525", "virtuslab__git-machete-534"], "source": "swerebenchv2", "level": 3, "repo": "VirtusLab/git-machete", "valid": true}
+{"ids": ["neurodatawithoutborders__pynwb-811", "neurodatawithoutborders__pynwb-814", "neurodatawithoutborders__pynwb-818"], "source": "swerebenchv2", "level": 3, "repo": "NeurodataWithoutBorders/pynwb", "valid": true}
+{"ids": ["pycqa__pyflakes-335", "pycqa__pyflakes-371", "pycqa__pyflakes-374"], "source": "swerebenchv2", "level": 3, "repo": "PyCQA/pyflakes", "valid": true}
+{"ids": ["pyccel__pyccel-2072", "pyccel__pyccel-2082", "pyccel__pyccel-2089"], "source": "swerebenchv2", "level": 3, "repo": "pyccel/pyccel", "valid": true}
+{"ids": ["allrod5__parameters-validation-3", "allrod5__parameters-validation-6"], "source": "swerebench", "level": 2, "repo": "allrod5/parameters-validation", "valid": true}
+{"ids": ["warpnet__salt-lint-210", "warpnet__salt-lint-213", "warpnet__salt-lint-214"], "source": "swerebenchv2", "level": 3, "repo": "warpnet/salt-lint", "valid": true}
+{"ids": ["briancurtin__deprecation-12", "briancurtin__deprecation-14"], "source": "swerebench", "level": 2, "repo": "briancurtin/deprecation", "valid": true}
+{"ids": ["hgrecco__pint-652", "hgrecco__pint-658"], "source": "swerebench", "level": 2, "repo": "hgrecco/pint", "valid": true}
+{"ids": ["kiwicom__structlog-sentry-18", "kiwicom__structlog-sentry-19"], "source": "swerebench", "level": 2, "repo": "kiwicom/structlog-sentry", "valid": true}
+{"ids": ["pycqa__pyflakes-604", "pycqa__pyflakes-606", "pycqa__pyflakes-609"], "source": "swerebenchv2", "level": 3, "repo": "PyCQA/pyflakes", "valid": true}
+{"ids": ["tobymao__sqlglot-3745", "tobymao__sqlglot-3756", "tobymao__sqlglot-3765"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["hgrecco__pint-630", "hgrecco__pint-652", "hgrecco__pint-658"], "source": "swerebench", "level": 3, "repo": "hgrecco/pint", "valid": true}
+{"ids": ["researchobject__ro-crate-py-172", "researchobject__ro-crate-py-183", "researchobject__ro-crate-py-191"], "source": "swerebenchv2", "level": 3, "repo": "ResearchObject/ro-crate-py", "valid": true}
+{"ids": ["janehmueller__python-json-config-48", "janehmueller__python-json-config-53"], "source": "swerebench", "level": 2, "repo": "janehmueller/python-json-config", "valid": true}
+{"ids": ["fsspec__universal_pathlib-262", "fsspec__universal_pathlib-264", "fsspec__universal_pathlib-265"], "source": "swerebenchv2", "level": 3, "repo": "fsspec/universal_pathlib", "valid": true}
+{"ids": ["just-work__fffw-64", "just-work__fffw-68"], "source": "swerebench", "level": 2, "repo": "just-work/fffw", "valid": true}
+{"ids": ["NREL__hescore-hpxml-163", "NREL__hescore-hpxml-169"], "source": "swerebench", "level": 2, "repo": "NREL/hescore-hpxml", "valid": true}
+{"ids": ["NOhs__dkey-18"], "source": "swerebench", "level": 1, "repo": "NOhs/dkey", "valid": true}
+{"ids": ["ESSS__oop-ext-21", "ESSS__oop-ext-23"], "source": "swerebench", "level": 2, "repo": "ESSS/oop-ext", "valid": true}
+{"ids": ["MicroPyramid__forex-python-27"], "source": "swerebench", "level": 1, "repo": "MicroPyramid/forex-python", "valid": true}
+{"ids": ["s-knibbs__dataclasses-jsonschema-88", "s-knibbs__dataclasses-jsonschema-92", "s-knibbs__dataclasses-jsonschema-93"], "source": "swerebenchv2", "level": 3, "repo": "s-knibbs/dataclasses-jsonschema", "valid": true}
+{"ids": ["NCAS-CMS__cf-python-284"], "source": "swerebench", "level": 1, "repo": "NCAS-CMS/cf-python", "valid": true}
+{"ids": ["just-work__fffw-64", "just-work__fffw-68", "just-work__fffw-70"], "source": "swerebench", "level": 3, "repo": "just-work/fffw", "valid": true}
+{"ids": ["GenericMappingTools__pygmt-1484", "GenericMappingTools__pygmt-1530"], "source": "swerebench", "level": 2, "repo": "GenericMappingTools/pygmt", "valid": true}
+{"ids": ["getsentry__sentry-python-4179", "getsentry__sentry-python-4231"], "source": "swerebench", "level": 2, "repo": "getsentry/sentry-python", "valid": true}
+{"ids": ["ipython__ipykernel-1056", "ipython__ipykernel-1061"], "source": "swerebench", "level": 2, "repo": "ipython/ipykernel", "valid": true}
+{"ids": ["dask__dask-11699", "dask__dask-11707"], "source": "swerebench", "level": 2, "repo": "dask/dask", "valid": true}
+{"ids": ["RPing__influx-prompt-17"], "source": "swerebench", "level": 1, "repo": "RPing/influx-prompt", "valid": true}
+{"ids": ["Stewori__pytypes-37", "Stewori__pytypes-38"], "source": "swerebench", "level": 2, "repo": "Stewori/pytypes", "valid": true}
+{"ids": ["pycqa__pyflakes-420", "pycqa__pyflakes-435", "pycqa__pyflakes-443"], "source": "swerebenchv2", "level": 3, "repo": "PyCQA/pyflakes", "valid": true}
+{"ids": ["IMMM-SFA__population_gravity-19"], "source": "swerebench", "level": 1, "repo": "IMMM-SFA/population_gravity", "valid": true}
+{"ids": ["drivendataorg__cloudpathlib-432", "drivendataorg__cloudpathlib-433", "drivendataorg__cloudpathlib-437"], "source": "swerebenchv2", "level": 3, "repo": "drivendataorg/cloudpathlib", "valid": true}
+{"ids": ["ASPP__pelita-696"], "source": "swerebench", "level": 1, "repo": "ASPP/pelita", "valid": true}
+{"ids": ["jackdewinter__pymarkdown-1246", "jackdewinter__pymarkdown-1248"], "source": "swerebench", "level": 2, "repo": "jackdewinter/pymarkdown", "valid": true}
+{"ids": ["pycqa__pyflakes-371", "pycqa__pyflakes-374", "pycqa__pyflakes-396"], "source": "swerebenchv2", "level": 3, "repo": "PyCQA/pyflakes", "valid": true}
+{"ids": ["pycqa__pyflakes-754", "pycqa__pyflakes-761", "pycqa__pyflakes-765"], "source": "swerebenchv2", "level": 3, "repo": "PyCQA/pyflakes", "valid": true}
+{"ids": ["ESSS__conda-devenv-114"], "source": "swerebench", "level": 1, "repo": "ESSS/conda-devenv", "valid": true}
+{"ids": ["DataDog__datadogpy-545"], "source": "swerebench", "level": 1, "repo": "DataDog/datadogpy", "valid": true}
+{"ids": ["3YOURMIND__django-migration-linter-113"], "source": "swerebench", "level": 1, "repo": "3YOURMIND/django-migration-linter", "valid": true}
+{"ids": ["samuelcolvin__pydantic-3707", "samuelcolvin__pydantic-4064", "samuelcolvin__pydantic-4329"], "source": "swerebenchv2", "level": 3, "repo": "samuelcolvin/pydantic", "valid": true}
+{"ids": ["tobymao__sqlglot-3891", "tobymao__sqlglot-3935", "tobymao__sqlglot-3937"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["reata__sqllineage-492", "reata__sqllineage-493", "reata__sqllineage-494"], "source": "swerebench", "level": 3, "repo": "reata/sqllineage", "valid": true}
+{"ids": ["timothycrosley__isort-891", "timothycrosley__isort-892", "timothycrosley__isort-893"], "source": "swerebenchv2", "level": 3, "repo": "timothycrosley/isort", "valid": true}
+{"ids": ["s-knibbs__dataclasses-jsonschema-104", "s-knibbs__dataclasses-jsonschema-105", "s-knibbs__dataclasses-jsonschema-110"], "source": "swerebenchv2", "level": 3, "repo": "s-knibbs/dataclasses-jsonschema", "valid": true}
+{"ids": ["Duke-GCB__bespin-cli-16", "Duke-GCB__bespin-cli-18"], "source": "swerebench", "level": 2, "repo": "Duke-GCB/bespin-cli", "valid": true}
+{"ids": ["tobymao__sqlglot-4546", "tobymao__sqlglot-4550", "tobymao__sqlglot-4563"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["CSCfi__swift-browser-ui-20"], "source": "swerebench", "level": 1, "repo": "CSCfi/swift-browser-ui", "valid": true}
+{"ids": ["ClimateImpactLab__impactlab-tools-450"], "source": "swerebench", "level": 1, "repo": "ClimateImpactLab/impactlab-tools", "valid": true}
+{"ids": ["OpenMDAO__dymos-1018"], "source": "swerebench", "level": 1, "repo": "OpenMDAO/dymos", "valid": true}
+{"ids": ["ipython__ipykernel-1049", "ipython__ipykernel-1051"], "source": "swerebench", "level": 2, "repo": "ipython/ipykernel", "valid": true}
+{"ids": ["briancurtin__deprecation-12", "briancurtin__deprecation-14", "briancurtin__deprecation-37"], "source": "swerebench", "level": 3, "repo": "briancurtin/deprecation", "valid": true}
+{"ids": ["sdv-dev__rdt-708", "sdv-dev__rdt-712", "sdv-dev__rdt-715"], "source": "swerebenchv2", "level": 3, "repo": "sdv-dev/RDT", "valid": true}
+{"ids": ["Toloka__crowd-kit-114", "Toloka__crowd-kit-128"], "source": "swerebench", "level": 2, "repo": "Toloka/crowd-kit", "valid": true}
+{"ids": ["pycqa__flake8-1631", "pycqa__flake8-1642", "pycqa__flake8-1648"], "source": "swerebenchv2", "level": 3, "repo": "PyCQA/flake8", "valid": true}
+{"ids": ["tobymao__sqlglot-749", "tobymao__sqlglot-767", "tobymao__sqlglot-772"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["horejsek__python-fastjsonschema-112", "horejsek__python-fastjsonschema-116"], "source": "swerebench", "level": 2, "repo": "horejsek/python-fastjsonschema", "valid": true}
+{"ids": ["tobymao__sqlglot-3272", "tobymao__sqlglot-3284", "tobymao__sqlglot-3290"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["fitbenchmarking__fitbenchmarking-1337", "fitbenchmarking__fitbenchmarking-1338"], "source": "swerebench", "level": 2, "repo": "fitbenchmarking/fitbenchmarking", "valid": true}
+{"ids": ["axelrod-python__axelrod-767", "axelrod-python__axelrod-770", "axelrod-python__axelrod-778"], "source": "swerebenchv2", "level": 3, "repo": "Axelrod-Python/Axelrod", "valid": true}
+{"ids": ["leonardt__hwtypes-39", "leonardt__hwtypes-50"], "source": "swerebench", "level": 2, "repo": "leonardt/hwtypes", "valid": true}
+{"ids": ["collective__icalendar-878", "collective__icalendar-879", "collective__icalendar-880"], "source": "swerebenchv2", "level": 3, "repo": "collective/icalendar", "valid": true}
+{"ids": ["azure__walinuxagent-638", "azure__walinuxagent-642", "azure__walinuxagent-647"], "source": "swerebenchv2", "level": 3, "repo": "Azure/WALinuxAgent", "valid": true}
+{"ids": ["modin-project__modin-6615", "modin-project__modin-6631", "modin-project__modin-6648"], "source": "swerebenchv2", "level": 3, "repo": "modin-project/modin", "valid": true}
+{"ids": ["factoryboy__factory_boy-1006", "factoryboy__factory_boy-1045", "factoryboy__factory_boy-1067"], "source": "swerebenchv2", "level": 3, "repo": "FactoryBoy/factory_boy", "valid": true}
+{"ids": ["ilevkivskyi__typing_inspect-71", "ilevkivskyi__typing_inspect-74"], "source": "swerebench", "level": 2, "repo": "ilevkivskyi/typing_inspect", "valid": true}
+{"ids": ["fsspec__universal_pathlib-254", "fsspec__universal_pathlib-261", "fsspec__universal_pathlib-262"], "source": "swerebenchv2", "level": 3, "repo": "fsspec/universal_pathlib", "valid": true}
+{"ids": ["matthewwithanm__python-markdownify-171", "matthewwithanm__python-markdownify-173", "matthewwithanm__python-markdownify-178"], "source": "swerebench", "level": 3, "repo": "matthewwithanm/python-markdownify", "valid": true}
+{"ids": ["dai-lab__copulas-76", "dai-lab__copulas-78", "dai-lab__copulas-81"], "source": "swerebenchv2", "level": 3, "repo": "DAI-Lab/Copulas", "valid": true}
+{"ids": ["privacy-scaling-explorations__zkevm-specs-476", "privacy-scaling-explorations__zkevm-specs-477", "privacy-scaling-explorations__zkevm-specs-478"], "source": "swerebenchv2", "level": 3, "repo": "privacy-scaling-explorations/zkevm-specs", "valid": true}
+{"ids": ["astropy__astroquery-3116", "astropy__astroquery-3168"], "source": "swerebench", "level": 2, "repo": "astropy/astroquery", "valid": true}
+{"ids": ["canonical__operator-823", "canonical__operator-860"], "source": "swerebench", "level": 2, "repo": "canonical/operator", "valid": true}
+{"ids": ["dlr-eoc__ukis-pysat-47", "dlr-eoc__ukis-pysat-51"], "source": "swerebench", "level": 2, "repo": "dlr-eoc/ukis-pysat", "valid": true}
+{"ids": ["pycqa__pyflakes-609", "pycqa__pyflakes-619", "pycqa__pyflakes-632"], "source": "swerebenchv2", "level": 3, "repo": "PyCQA/pyflakes", "valid": true}
+{"ids": ["larq__zookeeper-228", "larq__zookeeper-241", "larq__zookeeper-275"], "source": "swerebench", "level": 3, "repo": "larq/zookeeper", "valid": true}
+{"ids": ["Scille__umongo-190", "Scille__umongo-191"], "source": "swerebench", "level": 2, "repo": "Scille/umongo", "valid": true}
+{"ids": ["robotpy__cxxheaderparser-97", "robotpy__cxxheaderparser-98", "robotpy__cxxheaderparser-100"], "source": "swerebenchv2", "level": 3, "repo": "robotpy/cxxheaderparser", "valid": true}
+{"ids": ["getsentry__responses-558", "getsentry__responses-564"], "source": "swerebench", "level": 2, "repo": "getsentry/responses", "valid": true}
+{"ids": ["pybamm-team__pybamm-1020", "pybamm-team__pybamm-1025", "pybamm-team__pybamm-1026"], "source": "swerebenchv2", "level": 3, "repo": "pybamm-team/PyBaMM", "valid": true}
+{"ids": ["sdv-dev__rdt-905", "sdv-dev__rdt-917", "sdv-dev__rdt-933"], "source": "swerebenchv2", "level": 3, "repo": "sdv-dev/RDT", "valid": true}
+{"ids": ["lidatong__dataclasses-json-394", "lidatong__dataclasses-json-426", "lidatong__dataclasses-json-435"], "source": "swerebench", "level": 3, "repo": "lidatong/dataclasses-json", "valid": true}
+{"ids": ["hhatto__autopep8-450", "hhatto__autopep8-464", "hhatto__autopep8-466"], "source": "swerebench", "level": 3, "repo": "hhatto/autopep8", "valid": true}
+{"ids": ["pycqa__pyflakes-435", "pycqa__pyflakes-443", "pycqa__pyflakes-448"], "source": "swerebenchv2", "level": 3, "repo": "PyCQA/pyflakes", "valid": true}
+{"ids": ["robotpy__cxxheaderparser-8", "robotpy__cxxheaderparser-27", "robotpy__cxxheaderparser-28"], "source": "swerebenchv2", "level": 3, "repo": "robotpy/cxxheaderparser", "valid": true}
+{"ids": ["cs-si__eodag-380", "cs-si__eodag-381", "cs-si__eodag-405"], "source": "swerebenchv2", "level": 3, "repo": "CS-SI/eodag", "valid": true}
+{"ids": ["ncclient__ncclient-404", "ncclient__ncclient-405", "ncclient__ncclient-412"], "source": "swerebench", "level": 3, "repo": "ncclient/ncclient", "valid": true}
+{"ids": ["tobymao__sqlglot-3230", "tobymao__sqlglot-3238", "tobymao__sqlglot-3242"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["tobymao__sqlglot-4141", "tobymao__sqlglot-4148", "tobymao__sqlglot-4151"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["tobymao__sqlglot-4545", "tobymao__sqlglot-4546", "tobymao__sqlglot-4550"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["awdeorio__mailmerge-95", "awdeorio__mailmerge-101"], "source": "swerebench", "level": 2, "repo": "awdeorio/mailmerge", "valid": true}
+{"ids": ["cta-observatory__lstmcpipe-398", "cta-observatory__lstmcpipe-399"], "source": "swerebench", "level": 2, "repo": "cta-observatory/lstmcpipe", "valid": true}
+{"ids": ["devopshq__artifactory-53", "devopshq__artifactory-60"], "source": "swerebench", "level": 2, "repo": "devopshq/artifactory", "valid": true}
+{"ids": ["codalab__codalab-worksheets-3076", "codalab__codalab-worksheets-3343", "codalab__codalab-worksheets-3393"], "source": "swerebench", "level": 3, "repo": "codalab/codalab-worksheets", "valid": true}
+{"ids": ["astanin__python-tabulate-96", "astanin__python-tabulate-139"], "source": "swerebench", "level": 2, "repo": "astanin/python-tabulate", "valid": true}
+{"ids": ["kayak__pypika-54", "kayak__pypika-56", "kayak__pypika-64"], "source": "swerebenchv2", "level": 3, "repo": "kayak/pypika", "valid": true}
+{"ids": ["Duke-GCB__bespin-cli-15", "Duke-GCB__bespin-cli-16"], "source": "swerebench", "level": 2, "repo": "Duke-GCB/bespin-cli", "valid": true}
+{"ids": ["dask__distributed-2969", "dask__distributed-3021"], "source": "swerebench", "level": 2, "repo": "dask/distributed", "valid": true}
+{"ids": ["reata__sqllineage-17", "reata__sqllineage-19", "reata__sqllineage-22"], "source": "swerebench", "level": 3, "repo": "reata/sqllineage", "valid": true}
+{"ids": ["macbre__sql-metadata-316", "macbre__sql-metadata-387", "macbre__sql-metadata-388"], "source": "swerebench", "level": 3, "repo": "macbre/sql-metadata", "valid": true}
+{"ids": ["cwacek__python-jsonschema-objects-179", "cwacek__python-jsonschema-objects-190"], "source": "swerebench", "level": 2, "repo": "cwacek/python-jsonschema-objects", "valid": true}
+{"ids": ["canonical__operator-900", "canonical__operator-903"], "source": "swerebench", "level": 2, "repo": "canonical/operator", "valid": true}
+{"ids": ["fsspec__universal_pathlib-264", "fsspec__universal_pathlib-265", "fsspec__universal_pathlib-293"], "source": "swerebenchv2", "level": 3, "repo": "fsspec/universal_pathlib", "valid": true}
+{"ids": ["kayak__pypika-33", "kayak__pypika-38", "kayak__pypika-39"], "source": "swerebenchv2", "level": 3, "repo": "kayak/pypika", "valid": true}
+{"ids": ["bear__python-twitter-416", "bear__python-twitter-439"], "source": "swerebench", "level": 2, "repo": "bear/python-twitter", "valid": true}
+{"ids": ["robotpy__cxxheaderparser-2", "robotpy__cxxheaderparser-8", "robotpy__cxxheaderparser-27"], "source": "swerebenchv2", "level": 3, "repo": "robotpy/cxxheaderparser", "valid": true}
+{"ids": ["EvoluxBR__greenswitch-83", "EvoluxBR__greenswitch-85"], "source": "swerebench", "level": 2, "repo": "EvoluxBR/greenswitch", "valid": true}
+{"ids": ["encode__httpx-377", "encode__httpx-386"], "source": "swerebench", "level": 2, "repo": "encode/httpx", "valid": true}
+{"ids": ["doccano__doccano-1557", "doccano__doccano-1558"], "source": "swerebench", "level": 2, "repo": "doccano/doccano", "valid": true}
+{"ids": ["hazelcast__hazelcast-python-client-385", "hazelcast__hazelcast-python-client-387"], "source": "swerebench", "level": 2, "repo": "hazelcast/hazelcast-python-client", "valid": true}
+{"ids": ["oscal-compass__compliance-trestle-1573", "oscal-compass__compliance-trestle-1577", "oscal-compass__compliance-trestle-1578"], "source": "swerebenchv2", "level": 3, "repo": "oscal-compass/compliance-trestle", "valid": true}
+{"ids": ["pandas-dev__pandas-61283", "pandas-dev__pandas-61288", "pandas-dev__pandas-61308"], "source": "swerebenchv2", "level": 3, "repo": "pandas-dev/pandas", "valid": true}
+{"ids": ["s-knibbs__dataclasses-jsonschema-96", "s-knibbs__dataclasses-jsonschema-101", "s-knibbs__dataclasses-jsonschema-104"], "source": "swerebenchv2", "level": 3, "repo": "s-knibbs/dataclasses-jsonschema", "valid": true}
+{"ids": ["briancurtin__deprecation-14", "briancurtin__deprecation-37"], "source": "swerebench", "level": 2, "repo": "briancurtin/deprecation", "valid": true}
+{"ids": ["s-knibbs__dataclasses-jsonschema-82", "s-knibbs__dataclasses-jsonschema-85", "s-knibbs__dataclasses-jsonschema-86"], "source": "swerebenchv2", "level": 3, "repo": "s-knibbs/dataclasses-jsonschema", "valid": true}
+{"ids": ["sdv-dev__rdt-862", "sdv-dev__rdt-867", "sdv-dev__rdt-872"], "source": "swerebenchv2", "level": 3, "repo": "sdv-dev/RDT", "valid": true}
+{"ids": ["tobymao__sqlglot-4390", "tobymao__sqlglot-4393", "tobymao__sqlglot-4415"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["cuthbertlab__music21-958", "cuthbertlab__music21-960", "cuthbertlab__music21-970"], "source": "swerebenchv2", "level": 3, "repo": "cuthbertLab/music21", "valid": true}
+{"ids": ["s-knibbs__dataclasses-jsonschema-101", "s-knibbs__dataclasses-jsonschema-104", "s-knibbs__dataclasses-jsonschema-105"], "source": "swerebenchv2", "level": 3, "repo": "s-knibbs/dataclasses-jsonschema", "valid": true}
+{"ids": ["tobymao__sqlglot-4109", "tobymao__sqlglot-4110", "tobymao__sqlglot-4127"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["marketsquare__robotframework-robocop-1027", "marketsquare__robotframework-robocop-1030", "marketsquare__robotframework-robocop-1036"], "source": "swerebenchv2", "level": 3, "repo": "MarketSquare/robotframework-robocop", "valid": true}
+{"ids": ["modin-project__modin-6788", "modin-project__modin-6798", "modin-project__modin-6884"], "source": "swerebenchv2", "level": 3, "repo": "modin-project/modin", "valid": true}
+{"ids": ["tobymao__sqlglot-2167", "tobymao__sqlglot-2172", "tobymao__sqlglot-2179"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["jackdewinter__pymarkdown-1246", "jackdewinter__pymarkdown-1248", "jackdewinter__pymarkdown-1251"], "source": "swerebench", "level": 3, "repo": "jackdewinter/pymarkdown", "valid": true}
+{"ids": ["tobymao__sqlglot-3182", "tobymao__sqlglot-3191", "tobymao__sqlglot-3198"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["jazzband__django-axes-950", "jazzband__django-axes-1022", "jazzband__django-axes-1033"], "source": "swerebenchv2", "level": 3, "repo": "jazzband/django-axes", "valid": true}
+{"ids": ["omni-us__jsonargparse-559", "omni-us__jsonargparse-560", "omni-us__jsonargparse-562"], "source": "swerebench", "level": 3, "repo": "omni-us/jsonargparse", "valid": true}
+{"ids": ["sdepy__sdepy-12", "sdepy__sdepy-13", "sdepy__sdepy-21"], "source": "swerebench", "level": 3, "repo": "sdepy/sdepy", "valid": true}
+{"ids": ["python-attrs__attrs-763", "python-attrs__attrs-770", "python-attrs__attrs-782"], "source": "swerebenchv2", "level": 3, "repo": "python-attrs/attrs", "valid": true}
+{"ids": ["brazilian-utils__brutils-python-54", "brazilian-utils__brutils-python-57", "brazilian-utils__brutils-python-58"], "source": "swerebenchv2", "level": 3, "repo": "brazilian-utils/brutils-python", "valid": true}
+{"ids": ["tobymao__sqlglot-3621", "tobymao__sqlglot-3627", "tobymao__sqlglot-3630"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["tobymao__sqlglot-3734", "tobymao__sqlglot-3745", "tobymao__sqlglot-3756"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["neovasili__tflens-35", "neovasili__tflens-36", "neovasili__tflens-37"], "source": "swerebench", "level": 3, "repo": "neovasili/tflens", "valid": true}
+{"ids": ["NREL__hescore-hpxml-113", "NREL__hescore-hpxml-115", "NREL__hescore-hpxml-117"], "source": "swerebench", "level": 3, "repo": "NREL/hescore-hpxml", "valid": true}
+{"ids": ["tobymao__sqlglot-2083", "tobymao__sqlglot-2093", "tobymao__sqlglot-2095"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["tobymao__sqlglot-3238", "tobymao__sqlglot-3242", "tobymao__sqlglot-3252"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["tobymao__sqlglot-700", "tobymao__sqlglot-702", "tobymao__sqlglot-749"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["jboss-dockerfiles__dogen-143", "jboss-dockerfiles__dogen-149", "jboss-dockerfiles__dogen-196"], "source": "swerebench", "level": 3, "repo": "jboss-dockerfiles/dogen", "valid": true}
+{"ids": ["NREL__hescore-hpxml-137", "NREL__hescore-hpxml-139", "NREL__hescore-hpxml-149"], "source": "swerebench", "level": 3, "repo": "NREL/hescore-hpxml", "valid": true}
+{"ids": ["yukinarit__pyserde-208", "yukinarit__pyserde-229", "yukinarit__pyserde-264"], "source": "swerebench", "level": 3, "repo": "yukinarit/pyserde", "valid": true}
+{"ids": ["reata__sqllineage-40", "reata__sqllineage-41", "reata__sqllineage-42"], "source": "swerebench", "level": 3, "repo": "reata/sqllineage", "valid": true}
+{"ids": ["NREL__hescore-hpxml-103", "NREL__hescore-hpxml-113", "NREL__hescore-hpxml-115"], "source": "swerebench", "level": 3, "repo": "NREL/hescore-hpxml", "valid": true}
+{"ids": ["tobymao__sqlglot-3242", "tobymao__sqlglot-3252", "tobymao__sqlglot-3255"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["tobymao__sqlglot-3179", "tobymao__sqlglot-3182", "tobymao__sqlglot-3191"], "source": "swerebench", "level": 3, "repo": "tobymao/sqlglot", "valid": true}
+{"ids": ["d0c-s4vage__pfp-116"], "source": "swerebenchv2", "level": 1, "repo": "d0c-s4vage/pfp"}
+{"ids": ["d0c-s4vage__pfp-121"], "source": "swerebenchv2", "level": 1, "repo": "d0c-s4vage/pfp"}
+{"ids": ["takluyver__flit-168"], "source": "swerebenchv2", "level": 1, "repo": "takluyver/flit"}
+{"ids": ["kayak__pypika-31"], "source": "swerebenchv2", "level": 1, "repo": "kayak/pypika"}
+{"ids": ["kayak__pypika-33"], "source": "swerebenchv2", "level": 1, "repo": "kayak/pypika"}
+{"ids": ["kayak__pypika-38"], "source": "swerebenchv2", "level": 1, "repo": "kayak/pypika"}
+{"ids": ["neurodatawithoutborders__pynwb-791"], "source": "swerebenchv2", "level": 1, "repo": "NeurodataWithoutBorders/pynwb"}
+{"ids": ["neurodatawithoutborders__pynwb-811"], "source": "swerebenchv2", "level": 1, "repo": "NeurodataWithoutBorders/pynwb"}
+{"ids": ["d0c-s4vage__pfp-123"], "source": "swerebenchv2", "level": 1, "repo": "d0c-s4vage/pfp"}
+{"ids": ["pypa__pipx-1267"], "source": "swerebenchv2", "level": 1, "repo": "pypa/pipx"}
+{"ids": ["pypa__pipx-1284"], "source": "swerebenchv2", "level": 1, "repo": "pypa/pipx"}
+{"ids": ["takluyver__flit-169"], "source": "swerebenchv2", "level": 1, "repo": "takluyver/flit"}
+{"ids": ["pybamm-team__pybamm-1020"], "source": "swerebenchv2", "level": 1, "repo": "pybamm-team/PyBaMM"}
+{"ids": ["pybamm-team__pybamm-1025"], "source": "swerebenchv2", "level": 1, "repo": "pybamm-team/PyBaMM"}
+{"ids": ["oceanparcels__parcels-476"], "source": "swerebenchv2", "level": 1, "repo": "OceanParcels/parcels"}
+{"ids": ["oceanparcels__parcels-541"], "source": "swerebenchv2", "level": 1, "repo": "OceanParcels/parcels"}
+{"ids": ["aws-cloudformation__cfn-lint-3898"], "source": "swerebenchv2", "level": 1, "repo": "aws-cloudformation/cfn-lint"}
+{"ids": ["neurodatawithoutborders__pynwb-814"], "source": "swerebenchv2", "level": 1, "repo": "NeurodataWithoutBorders/pynwb"}
+{"ids": ["modin-project__modin-6751"], "source": "swerebenchv2", "level": 1, "repo": "modin-project/modin"}
+{"ids": ["modin-project__modin-6757"], "source": "swerebenchv2", "level": 1, "repo": "modin-project/modin"}
+{"ids": ["tornadoweb__tornado-3488"], "source": "swerebenchv2", "level": 1, "repo": "tornadoweb/tornado"}
+{"ids": ["enthought__traits-1550"], "source": "swerebenchv2", "level": 1, "repo": "enthought/traits"}
+{"ids": ["tornadoweb__tornado-3489"], "source": "swerebenchv2", "level": 1, "repo": "tornadoweb/tornado"}
+{"ids": ["rochacbruno__dynaconf-292"], "source": "swerebenchv2", "level": 1, "repo": "rochacbruno/dynaconf"}
+{"ids": ["aws-cloudformation__cfn-lint-3900"], "source": "swerebenchv2", "level": 1, "repo": "aws-cloudformation/cfn-lint"}
+{"ids": ["robotpy__cxxheaderparser-98"], "source": "swerebenchv2", "level": 1, "repo": "robotpy/cxxheaderparser"}
+{"ids": ["robotpy__cxxheaderparser-100"], "source": "swerebenchv2", "level": 1, "repo": "robotpy/cxxheaderparser"}
+{"ids": ["enthought__traits-1560"], "source": "swerebenchv2", "level": 1, "repo": "enthought/traits"}
+{"ids": ["robotpy__cxxheaderparser-106"], "source": "swerebenchv2", "level": 1, "repo": "robotpy/cxxheaderparser"}
+{"ids": ["pytask-dev__pytask-285"], "source": "swerebenchv2", "level": 1, "repo": "pytask-dev/pytask"}
+{"ids": ["toblerity__shapely-1166"], "source": "swerebenchv2", "level": 1, "repo": "Toblerity/Shapely"}
+{"ids": ["modin-project__modin-6758"], "source": "swerebenchv2", "level": 1, "repo": "modin-project/modin"}
+{"ids": ["pytask-dev__pytask-287"], "source": "swerebenchv2", "level": 1, "repo": "pytask-dev/pytask"}
+{"ids": ["rochacbruno__dynaconf-300"], "source": "swerebenchv2", "level": 1, "repo": "rochacbruno/dynaconf"}
+{"ids": ["materials-consortia__optimade-python-tools-547"], "source": "swerebenchv2", "level": 1, "repo": "Materials-Consortia/optimade-python-tools"}
+{"ids": ["toblerity__shapely-1174"], "source": "swerebenchv2", "level": 1, "repo": "Toblerity/Shapely"}
+{"ids": ["yt-project__unyt-102"], "source": "swerebenchv2", "level": 1, "repo": "yt-project/unyt"}
+{"ids": ["drivendataorg__cloudpathlib-432"], "source": "swerebenchv2", "level": 1, "repo": "drivendataorg/cloudpathlib"}
+{"ids": ["yt-project__unyt-109"], "source": "swerebenchv2", "level": 1, "repo": "yt-project/unyt"}
+{"ids": ["aio-libs__aiohttp-8874"], "source": "swerebenchv2", "level": 1, "repo": "aio-libs/aiohttp"}
+{"ids": ["drivendataorg__cloudpathlib-433"], "source": "swerebenchv2", "level": 1, "repo": "drivendataorg/cloudpathlib"}
+{"ids": ["aio-libs__aiohttp-8858"], "source": "swerebenchv2", "level": 1, "repo": "aio-libs/aiohttp"}
+{"ids": ["codezonediitj__pydatastructs-165"], "source": "swerebenchv2", "level": 1, "repo": "codezonediitj/pydatastructs"}
+{"ids": ["codezonediitj__pydatastructs-177"], "source": "swerebenchv2", "level": 1, "repo": "codezonediitj/pydatastructs"}
+{"ids": ["sdv-dev__rdt-754"], "source": "swerebenchv2", "level": 1, "repo": "sdv-dev/RDT"}
+{"ids": ["materials-consortia__optimade-python-tools-582"], "source": "swerebenchv2", "level": 1, "repo": "Materials-Consortia/optimade-python-tools"}
+{"ids": ["scitools__cartopy-2378"], "source": "swerebenchv2", "level": 1, "repo": "SciTools/cartopy"}
+{"ids": ["alteryx__woodwork-640"], "source": "swerebenchv2", "level": 1, "repo": "alteryx/woodwork"}
+{"ids": ["alteryx__woodwork-646"], "source": "swerebenchv2", "level": 1, "repo": "alteryx/woodwork"}
+{"ids": ["theacodes__nox-472"], "source": "swerebenchv2", "level": 1, "repo": "theacodes/nox"}
+{"ids": ["theacodes__nox-482"], "source": "swerebenchv2", "level": 1, "repo": "theacodes/nox"}
+{"ids": ["codezonediitj__pydatastructs-211"], "source": "swerebenchv2", "level": 1, "repo": "codezonediitj/pydatastructs"}
+{"ids": ["theacodes__nox-489"], "source": "swerebenchv2", "level": 1, "repo": "theacodes/nox"}
+{"ids": ["amaranth-lang__amaranth-1319"], "source": "swerebenchv2", "level": 1, "repo": "amaranth-lang/amaranth"}
+{"ids": ["scitools__cartopy-2407"], "source": "swerebenchv2", "level": 1, "repo": "SciTools/cartopy"}
+{"ids": ["jnothman__upsetplot-261"], "source": "swerebenchv2", "level": 1, "repo": "jnothman/UpSetPlot"}
+{"ids": ["sdv-dev__rdt-755"], "source": "swerebenchv2", "level": 1, "repo": "sdv-dev/RDT"}
+{"ids": ["robotpy__cxxheaderparser-108"], "source": "swerebenchv2", "level": 1, "repo": "robotpy/cxxheaderparser"}
+{"ids": ["getmoto__moto-5853"], "source": "swerebenchv2", "level": 1, "repo": "getmoto/moto"}
+{"ids": ["pycqa__pyflakes-729"], "source": "swerebenchv2", "level": 1, "repo": "PyCQA/pyflakes"}
+{"ids": ["amaranth-lang__amaranth-1328"], "source": "swerebenchv2", "level": 1, "repo": "amaranth-lang/amaranth"}
+{"ids": ["meltano__sdk-1864"], "source": "swerebenchv2", "level": 1, "repo": "meltano/sdk"}
+{"ids": ["jnothman__upsetplot-264"], "source": "swerebenchv2", "level": 1, "repo": "jnothman/UpSetPlot"}
+{"ids": ["pycqa__pyflakes-745"], "source": "swerebenchv2", "level": 1, "repo": "PyCQA/pyflakes"}
+{"ids": ["vmware__tern-250"], "source": "swerebenchv2", "level": 1, "repo": "vmware/tern"}
+{"ids": ["getmoto__moto-5862"], "source": "swerebenchv2", "level": 1, "repo": "getmoto/moto"}
+{"ids": ["meltano__sdk-1881"], "source": "swerebenchv2", "level": 1, "repo": "meltano/sdk"}
+{"ids": ["meltano__sdk-1880"], "source": "swerebenchv2", "level": 1, "repo": "meltano/sdk"}
+{"ids": ["openmdao__openmdao-3519"], "source": "swerebenchv2", "level": 1, "repo": "OpenMDAO/OpenMDAO"}
+{"ids": ["python-markdown__markdown-743"], "source": "swerebenchv2", "level": 1, "repo": "Python-Markdown/markdown"}
+{"ids": ["vmware__tern-255"], "source": "swerebenchv2", "level": 1, "repo": "vmware/tern"}
+{"ids": ["vmware__tern-259"], "source": "swerebenchv2", "level": 1, "repo": "vmware/tern"}
+{"ids": ["tox-dev__pipdeptree-195"], "source": "swerebenchv2", "level": 1, "repo": "tox-dev/pipdeptree"}
+{"ids": ["getmoto__moto-5873"], "source": "swerebenchv2", "level": 1, "repo": "getmoto/moto"}
+{"ids": ["python-markdown__markdown-785"], "source": "swerebenchv2", "level": 1, "repo": "Python-Markdown/markdown"}
+{"ids": ["openmdao__openmdao-3522"], "source": "swerebenchv2", "level": 1, "repo": "OpenMDAO/OpenMDAO"}
+{"ids": ["tox-dev__pipdeptree-239"], "source": "swerebenchv2", "level": 1, "repo": "tox-dev/pipdeptree"}
+{"ids": ["pycqa__pyflakes-765"], "source": "swerebenchv2", "level": 1, "repo": "PyCQA/pyflakes"}
+{"ids": ["cuthbertlab__music21-1066"], "source": "swerebenchv2", "level": 1, "repo": "cuthbertLab/music21"}
+{"ids": ["pycqa__pyflakes-772"], "source": "swerebenchv2", "level": 1, "repo": "PyCQA/pyflakes"}
+{"ids": ["openmdao__openmdao-3455"], "source": "swerebenchv2", "level": 1, "repo": "OpenMDAO/OpenMDAO"}
+{"ids": ["openmdao__openmdao-3098"], "source": "swerebenchv2", "level": 1, "repo": "OpenMDAO/OpenMDAO"}
+{"ids": ["openmdao__openmdao-3461"], "source": "swerebenchv2", "level": 1, "repo": "OpenMDAO/OpenMDAO"}
+{"ids": ["cuthbertlab__music21-1138"], "source": "swerebenchv2", "level": 1, "repo": "cuthbertLab/music21"}
+{"ids": ["cs-si__eodag-790"], "source": "swerebenchv2", "level": 1, "repo": "CS-SI/eodag"}
+{"ids": ["getmoto__moto-5876"], "source": "swerebenchv2", "level": 1, "repo": "getmoto/moto"}
+{"ids": ["litestar-org__polyfactory-472"], "source": "swerebenchv2", "level": 1, "repo": "litestar-org/polyfactory"}
+{"ids": ["openmdao__openmdao-3117"], "source": "swerebenchv2", "level": 1, "repo": "OpenMDAO/OpenMDAO"}
+{"ids": ["rigetticomputing__pyquil-156"], "source": "swerebenchv2", "level": 1, "repo": "rigetticomputing/pyquil"}
+{"ids": ["openmdao__openmdao-3125"], "source": "swerebenchv2", "level": 1, "repo": "OpenMDAO/OpenMDAO"}
+{"ids": ["cs-si__eodag-795"], "source": "swerebenchv2", "level": 1, "repo": "CS-SI/eodag"}
+{"ids": ["litestar-org__polyfactory-479"], "source": "swerebenchv2", "level": 1, "repo": "litestar-org/polyfactory"}
+{"ids": ["amaranth-lang__amaranth-1395"], "source": "swerebenchv2", "level": 1, "repo": "amaranth-lang/amaranth"}
+{"ids": ["pvlib__pvlib-python-278"], "source": "swerebenchv2", "level": 1, "repo": "pvlib/pvlib-python"}
+{"ids": ["pvlib__pvlib-python-304"], "source": "swerebenchv2", "level": 1, "repo": "pvlib/pvlib-python"}
+{"ids": ["rigetticomputing__pyquil-166"], "source": "swerebenchv2", "level": 1, "repo": "rigetticomputing/pyquil"}
+{"ids": ["sdv-dev__rdt-610"], "source": "swerebenchv2", "level": 1, "repo": "sdv-dev/RDT"}
+{"ids": ["pyccel__pyccel-2072"], "source": "swerebenchv2", "level": 1, "repo": "pyccel/pyccel"}
+{"ids": ["amaranth-lang__amaranth-1406"], "source": "swerebenchv2", "level": 1, "repo": "amaranth-lang/amaranth"}
+{"ids": ["amaranth-lang__amaranth-1420"], "source": "swerebenchv2", "level": 1, "repo": "amaranth-lang/amaranth"}

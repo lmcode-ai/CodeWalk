@@ -1,0 +1,93 @@
+{
+  "variant": "source-reconstructed-2026-11-06",
+  "total_tasks": 679,
+  "counts_by_level": {
+    "codeclone": {
+      "1": 100,
+      "2": 100,
+      "3": 100
+    },
+    "bugfixing": {
+      "1": 12,
+      "2": 15,
+      "3": 10
+    },
+    "bigo": {
+      "1": 25,
+      "10": 10,
+      "2": 80,
+      "3": 80
+    },
+    "verus": {
+      "1": 87,
+      "2": 25,
+      "3": 25,
+      "10": 10
+    }
+  },
+  "classification_labels": {
+    "codeclone": {
+      "L1:equivalent": 50,
+      "L1:not_equivalent": 50,
+      "L2:equivalent": 50,
+      "L2:not_equivalent": 50,
+      "L3:equivalent": 50,
+      "L3:not_equivalent": 50
+    },
+    "bigo": {
+      "L1:linear": 6,
+      "L1:constant": 10,
+      "L1:logn": 3,
+      "L1:quadratic": 5,
+      "L1:nlogn": 1,
+      "L10:linear": 4,
+      "L10:quadratic": 5,
+      "L10:nlogn": 1,
+      "L2:quadratic": 17,
+      "L2:logn": 13,
+      "L2:constant": 36,
+      "L2:nlogn": 6,
+      "L2:linear": 8,
+      "L3:logn": 15,
+      "L3:quadratic": 17,
+      "L3:constant": 36,
+      "L3:nlogn": 3,
+      "L3:linear": 9
+    }
+  },
+  "recovery": {
+    "fempd_pairs_recovered": 461,
+    "deterministic_validated_clone_atoms": 412,
+    "clone_unique_atoms_used": 391,
+    "all_clone_atoms_from_initial_component_ids": true,
+    "clone_component_group_comparison": {
+      "same_component_group": 238,
+      "same_component_order": 238,
+      "new_component_group": 62
+    },
+    "stochastic_component_replacements": 3,
+    "verus_validated_atoms": 87,
+    "codecomplex_upstream_programs": 4900,
+    "codecomplex_source_atoms": 25
+  },
+  "checks": {
+    "real_generation_admission": 679,
+    "verus_additional_public_typechecks": 147,
+    "classification_control_tasks": 495,
+    "local_tests": 38,
+    "model_inference_performed": false
+  },
+  "initial_datasets_modified": false,
+  "historical_scores_reusable": false,
+  "limitations": {
+    "codeclone": "Real FEMPD methods and original EvoSuite source recovered; differential suites regenerated/augmented, not historical CodeWalk admission suites.",
+    "bugfixing": "Real original patches/tests/commits, only locally admitted repositories; native Windows Python environment differs from initial container images.",
+    "verus": "Real algorithms and upstream reference proofs; modules/extra fixed wrappers, matched executable token projection, different toolchain; conservative i32-vector L10 subset.",
+    "bigo": "Restricted extraction from 4900 actual CodeComplex programs; program-label agreement plus limited AST audit, empirical size fits; no cubic/np atoms, historical pool not recovered."
+  },
+  "notes": [
+    "Shared source components are intentional; this is not an independent unseen-source test split.",
+    "Reference-label controls are not model evaluation results.",
+    "Unseeded RNG pair 13254 is excluded; three replacement tasks were fully re-admitted."
+  ]
+}

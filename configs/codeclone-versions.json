@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "domain": "codeclone",
+  "checked_at": "2026-11-06",
+  "evaluation_settings": "evaluation.json#/codeclone",
+  "variants": {
+    "legacy-aggregation-l123": {
+      "status": "public_artifact_available; semantic admission evidence unavailable",
+      "repo_id": "CodeWalk/clone-equivalence",
+      "revision": "a24a0d0819bfacc28e36594abfb1acb3176638ba",
+      "composition": "independent component calls with Object[] aggregation at L2/L3",
+      "tasks_by_level": {
+        "1": 100,
+        "2": 100,
+        "3": 100
+      },
+      "paper_results_compatible": false
+    },
+    "paper-dataflow-heldout": {
+      "status": "blocked_missing_artifacts",
+      "repo_id": null,
+      "revision": null,
+      "composition": "typed output-to-input chains, with whole-composite admission",
+      "tasks_by_level": {
+        "1": 86,
+        "2": 82,
+        "3": 84,
+        "10": 166
+      },
+      "task_ids_manifest": null,
+      "public_input_hashes": null,
+      "atomic_admission_evidence": null,
+      "composite_admission_evidence": null,
+      "paper_results_compatible": null
+    },
+    "paper-sized-source-reconstructed": {
+      "status": "local_count_matched_reconstruction_three_way_alignment_failed",
+      "composition": "Exact-type multi-argument output-to-input chains",
+      "tasks_by_level": {
+        "1": 86,
+        "2": 82,
+        "3": 84,
+        "10": 166
+      },
+      "task_ids_manifest": "outputs/paper-sized-benchmark/judge/codeclone.jsonl",
+      "admission_evidence": "outputs/paper-sized-benchmark/judge/lineage.jsonl",
+      "paper_results_compatible": false,
+      "notes": "New source selection and regenerated suites; counts and depth distribution match the paper, historical scores do not transfer."
+    }
+  },
+  "policy": "Do not truncate, relabel, rewire, or extend legacy tasks and assign historical paper results to the modified dataset."
+}

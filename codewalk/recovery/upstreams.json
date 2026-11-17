@@ -1,0 +1,18 @@
+{
+  "codecomplex": {
+    "repo": "sybaik1/CodeComplex",
+    "revision": "75ec12fc611349dfb051d86ae86e6ab368dc8978",
+    "file": "data/python_data.jsonl",
+    "sha256": "0cf4923ad68e57a42392b4f4787476fed9392d182c886f4aec73cd70175e1c3b"
+  },
+  "verus": {
+    "repo": "microsoft/verus-proof-synthesis",
+    "revision": "cbf9c0c6337b224fd8e5b7cb4e01ae65c0f98bc1"
+  },
+  "fempd": {
+    "url": "https://dl.dropboxusercontent.com/s/7rcg4mso1k755nh/ijadataset.db",
+    "size_bytes": 2670645248,
+    "etag": "1674528577411655n",
+    "selection": "461 component_pairids in pinned CodeWalk clone-equivalence release"
+  }
+}

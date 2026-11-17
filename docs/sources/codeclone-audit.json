@@ -1,0 +1,30 @@
+{
+  "domain": "codeclone",
+  "tasks": 300,
+  "levels": {
+    "1": 100,
+    "2": 100,
+    "3": 100
+  },
+  "scope": "schema/integrity only, not semantic re-verification",
+  "labels_by_level": {
+    "1": {
+      "equivalent": 50,
+      "not_equivalent": 50
+    },
+    "2": {
+      "equivalent": 50,
+      "not_equivalent": 50
+    },
+    "3": {
+      "equivalent": 50,
+      "not_equivalent": 50
+    }
+  },
+  "legacy_aggregation_markers_by_level": {
+    "1": 0,
+    "2": 100,
+    "3": 100
+  },
+  "marker_note": "Text markers identify legacy aggregation wrappers; this is not a Java semantic proof."
+}

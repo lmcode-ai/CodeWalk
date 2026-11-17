@@ -1,0 +1,12 @@
+{
+  "domain": "bugfixing",
+  "tasks": 568,
+  "levels": {
+    "1": 200,
+    "2": 200,
+    "3": 168
+  },
+  "scope": "schema/integrity only, not semantic re-verification",
+  "repositories": 280,
+  "bugs": 1104
+}

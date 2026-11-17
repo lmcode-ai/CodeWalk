@@ -1,0 +1,15 @@
+{
+  "source_archive_sha256": "20fe2a203bb9186c7f06246b394dcc605faf2ed4cd29eab17f97a61c5d9cbd56",
+  "imported_project_files": 307,
+  "english_localized_files_original_sha256": {
+    "build_ns.py": "0225b6dd01a04c4be3f1c7a5e577b2c51f6e4b94c7c76e36638b46793145f666",
+    "build_ns_v2.py": "7810bd4439e894b65207b5874516fe8f0c74ce2d0eb1a26d5daef4c0ae26019f",
+    "build_r3.py": "8e9e14f2e699ec9fa9a69989d46c25e1605a9d635f01088b1db560e5a851a01e",
+    "build_r4.py": "4ef0dd6ae60398474bbb43cb968280a25932fdb2365ed0ff87c43e5a61d2338e",
+    "build_r5.py": "796b774a7fb245b01beb11123fbad57b8b6ce9dcbcac9d5c46c83d987ed804ff",
+    "build_r6.py": "796b774a7fb245b01beb11123fbad57b8b6ce9dcbcac9d5c46c83d987ed804ff",
+    "compose.py": "64bdfc63c906124ed9dca507515c3f4e78abf6f3ab1f19b5702243614ec584d1",
+    "topup.py": "0028cef0f3709f3fbf9a7e6b2b28938ab9b2a8921a8d93a7bec3326800ca259a",
+    "vps/autoverus/infer.py": "52a6ba8b61d303eb879d28abd6ad9f9aba80a04e907f687dd71ba522b8a889cd"
+  }
+}

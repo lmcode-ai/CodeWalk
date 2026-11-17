@@ -1,0 +1,11 @@
+{
+  "archive_sha256": "5dc0a5443e02695f5576df8e58b2ba20a67f048ccaa719fdbf693b6b25b2e472",
+  "source_files": 6,
+  "output_sha256": {
+    "chains_L10.jsonl": "0e24d6b9a80b6b4a0d91da32fe873edcfa7289491e3e3375f53fed725d0b40bc",
+    "chains_L2.jsonl": "482ef7d53d83d81266460167c7efad0fbdd6a58bf7e9dd525a8fe6588f269175",
+    "chains_L3.jsonl": "5a6917e8d0b802d8aa7f3a2a6979e67a8d8d28604e0c1b8460dcbc1cefd4f688",
+    "growth.json": "bfeb60b14db5aea745181ea0348bc84d2efa4a20997173f1b64745c5e39d5ee1",
+    "report.json": "f342c05b0bf3a18aa870e0aa88e7c86ce01b0b3ddf8191e9941490968d826a48"
+  }
+}

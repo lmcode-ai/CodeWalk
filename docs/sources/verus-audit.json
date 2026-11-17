@@ -1,0 +1,11 @@
+{
+  "domain": "verus",
+  "tasks": 400,
+  "levels": {
+    "1": 100,
+    "10": 100,
+    "2": 100,
+    "3": 100
+  },
+  "scope": "schema/integrity only, not semantic re-verification"
+}

@@ -1,0 +1,899 @@
+[
+  [
+    {
+      "pairid": 11419,
+      "idx_a": 1277891,
+      "idx_b": 2800838,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 12700,
+      "idx_a": 1542583,
+      "idx_b": 3029957,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 13341,
+      "idx_a": 630197,
+      "idx_b": 2287336,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 4645,
+      "idx_a": 1714983,
+      "idx_b": 1575145,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 13328,
+      "idx_a": 778631,
+      "idx_b": 3018230,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 3610,
+      "idx_a": 3438552,
+      "idx_b": 345933,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 8906,
+      "idx_a": 1821433,
+      "idx_b": 1357240,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 8079,
+      "idx_a": 1086830,
+      "idx_b": 3035082,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 4057,
+      "idx_a": 3398054,
+      "idx_b": 2351664,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 5918,
+      "idx_a": 1681722,
+      "idx_b": 1124881,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 11586,
+      "idx_a": 114546,
+      "idx_b": 3171912,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 93,
+      "idx_a": 15428,
+      "idx_b": 2881265,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 13444,
+      "idx_a": 3774732,
+      "idx_b": 685513,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 6780,
+      "idx_a": 761534,
+      "idx_b": 2822009,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 9398,
+      "idx_a": 985756,
+      "idx_b": 667443,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 11450,
+      "idx_a": 2038869,
+      "idx_b": 474522,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 5746,
+      "idx_a": 2575614,
+      "idx_b": 1410782,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 991,
+      "idx_a": 3191528,
+      "idx_b": 978838,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 3612,
+      "idx_a": 1299709,
+      "idx_b": 3172939,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 6607,
+      "idx_a": 3191152,
+      "idx_b": 318006,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 899,
+      "idx_a": 1326307,
+      "idx_b": 1326308,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 5384,
+      "idx_a": 1470291,
+      "idx_b": 869885,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 1684,
+      "idx_a": 1283450,
+      "idx_b": 594712,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 8618,
+      "idx_a": 1290871,
+      "idx_b": 606083,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 5712,
+      "idx_a": 2754579,
+      "idx_b": 3255706,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 10135,
+      "idx_a": 589039,
+      "idx_b": 2348570,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 8753,
+      "idx_a": 2381437,
+      "idx_b": 1797908,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 7068,
+      "idx_a": 1314632,
+      "idx_b": 3767136,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 105,
+      "idx_a": 3400106,
+      "idx_b": 3880859,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 880,
+      "idx_a": 2159569,
+      "idx_b": 2159565,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 3974,
+      "idx_a": 368706,
+      "idx_b": 1825121,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 7871,
+      "idx_a": 1118504,
+      "idx_b": 3676273,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    }
+  ],
+  [
+    {
+      "pairid": 5920,
+      "idx_a": 3323545,
+      "idx_b": 1258946,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 5735,
+      "idx_a": 726175,
+      "idx_b": 1588378,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 12582,
+      "idx_a": 3307502,
+      "idx_b": 2384941,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 9984,
+      "idx_a": 3488841,
+      "idx_b": 1243476,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 7862,
+      "idx_a": 467561,
+      "idx_b": 1996962,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 4402,
+      "idx_a": 1032654,
+      "idx_b": 839509,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 12537,
+      "idx_a": 91234,
+      "idx_b": 787285,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "MISLABELED"
+    },
+    {
+      "pairid": 4401,
+      "idx_a": 3051827,
+      "idx_b": 3051819,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 1579,
+      "idx_a": 712353,
+      "idx_b": 3258188,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 3794,
+      "idx_a": 1110878,
+      "idx_b": 890261,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 6623,
+      "idx_a": 2666948,
+      "idx_b": 3109633,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 2739,
+      "idx_a": 1702847,
+      "idx_b": 3871323,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 5171,
+      "idx_a": 58747,
+      "idx_b": 3564052,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 5801,
+      "idx_a": 827983,
+      "idx_b": 2814811,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 9955,
+      "idx_a": 2493763,
+      "idx_b": 3300720,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 4510,
+      "idx_a": 1269781,
+      "idx_b": 140931,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 5540,
+      "idx_a": 275585,
+      "idx_b": 2651206,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 1040,
+      "idx_a": 836672,
+      "idx_b": 396618,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 8142,
+      "idx_a": 1991874,
+      "idx_b": 2959529,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 8981,
+      "idx_a": 824010,
+      "idx_b": 2140485,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 12923,
+      "idx_a": 1275756,
+      "idx_b": 2927664,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 4711,
+      "idx_a": 126770,
+      "idx_b": 109096,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 11739,
+      "idx_a": 1748146,
+      "idx_b": 3532099,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 4860,
+      "idx_a": 2594964,
+      "idx_b": 1120814,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 5445,
+      "idx_a": 3243505,
+      "idx_b": 463723,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 5822,
+      "idx_a": 2660290,
+      "idx_b": 46817,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 11685,
+      "idx_a": 317059,
+      "idx_b": 329548,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 10321,
+      "idx_a": 474521,
+      "idx_b": 2038870,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 8117,
+      "idx_a": 1840311,
+      "idx_b": 1186754,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 4937,
+      "idx_a": 3397654,
+      "idx_b": 2270927,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 3597,
+      "idx_a": 1567252,
+      "idx_b": 3110714,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 7071,
+      "idx_a": 3563743,
+      "idx_b": 2710352,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    }
+  ],
+  [
+    {
+      "pairid": 9399,
+      "idx_a": 1333491,
+      "idx_b": 844108,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 8118,
+      "idx_a": 3503353,
+      "idx_b": 3503352,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 8408,
+      "idx_a": 2235389,
+      "idx_b": 2235390,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 6497,
+      "idx_a": 1649099,
+      "idx_b": 1649081,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 13406,
+      "idx_a": 2386647,
+      "idx_b": 480028,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 8069,
+      "idx_a": 3579611,
+      "idx_b": 1179714,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 9578,
+      "idx_a": 3840790,
+      "idx_b": 1476370,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 12829,
+      "idx_a": 2057026,
+      "idx_b": 318093,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 4400,
+      "idx_a": 2590664,
+      "idx_b": 2429430,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 6198,
+      "idx_a": 584503,
+      "idx_b": 2373672,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 9523,
+      "idx_a": 3140907,
+      "idx_b": 3743407,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 3671,
+      "idx_a": 2586127,
+      "idx_b": 3210278,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 13254,
+      "idx_a": 3373266,
+      "idx_b": 230551,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "MISLABELED"
+    },
+    {
+      "pairid": 8326,
+      "idx_a": 2942570,
+      "idx_b": 233054,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 10402,
+      "idx_a": 473076,
+      "idx_b": 2256459,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 8965,
+      "idx_a": 685368,
+      "idx_b": 43740,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 8905,
+      "idx_a": 1067084,
+      "idx_b": 426181,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 4643,
+      "idx_a": 3437598,
+      "idx_b": 3393786,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 4228,
+      "idx_a": 3441348,
+      "idx_b": 436286,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 5795,
+      "idx_a": 157737,
+      "idx_b": 2462554,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 8669,
+      "idx_a": 274731,
+      "idx_b": 274732,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 12413,
+      "idx_a": 3608211,
+      "idx_b": 2307425,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 12591,
+      "idx_a": 2028464,
+      "idx_b": 295564,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 5572,
+      "idx_a": 3444586,
+      "idx_b": 3585088,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 8967,
+      "idx_a": 790048,
+      "idx_b": 3246376,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 8279,
+      "idx_a": 3491766,
+      "idx_b": 100734,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 5035,
+      "idx_a": 344302,
+      "idx_b": 2459926,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 3850,
+      "idx_a": 2381078,
+      "idx_b": 816243,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 13256,
+      "idx_a": 1365050,
+      "idx_b": 539545,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 4463,
+      "idx_a": 506620,
+      "idx_b": 3189585,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 12135,
+      "idx_a": 1648333,
+      "idx_b": 274974,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 5885,
+      "idx_a": 271524,
+      "idx_b": 3776643,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    }
+  ],
+  [
+    {
+      "pairid": 11857,
+      "idx_a": 1595805,
+      "idx_b": 1881163,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 2945,
+      "idx_a": 1867350,
+      "idx_b": 721317,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 10090,
+      "idx_a": 2433437,
+      "idx_b": 183469,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 6121,
+      "idx_a": 1649102,
+      "idx_b": 1649080,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 7162,
+      "idx_a": 175986,
+      "idx_b": 886187,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 6617,
+      "idx_a": 466992,
+      "idx_b": 224038,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 3848,
+      "idx_a": 400892,
+      "idx_b": 539613,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 3945,
+      "idx_a": 2051247,
+      "idx_b": 1865638,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 8381,
+      "idx_a": 1488157,
+      "idx_b": 609751,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 4858,
+      "idx_a": 1635842,
+      "idx_b": 327870,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 6001,
+      "idx_a": 2503107,
+      "idx_b": 168852,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 844,
+      "idx_a": 2481132,
+      "idx_b": 2481136,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 9745,
+      "idx_a": 3326692,
+      "idx_b": 805419,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 4602,
+      "idx_a": 2960868,
+      "idx_b": 2995293,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 10556,
+      "idx_a": 223988,
+      "idx_b": 272790,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 9063,
+      "idx_a": 2908583,
+      "idx_b": 781063,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 5921,
+      "idx_a": 2355252,
+      "idx_b": 1581740,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 4702,
+      "idx_a": 3511544,
+      "idx_b": 2140506,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 6507,
+      "idx_a": 2937807,
+      "idx_b": 2345550,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 5625,
+      "idx_a": 2333927,
+      "idx_b": 1202115,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 3195,
+      "idx_a": 3149428,
+      "idx_b": 3525966,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 10653,
+      "idx_a": 688323,
+      "idx_b": 2496078,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 13268,
+      "idx_a": 2454810,
+      "idx_b": 3461096,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 2602,
+      "idx_a": 2902325,
+      "idx_b": 3157997,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 11553,
+      "idx_a": 1735599,
+      "idx_b": 526333,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 13197,
+      "idx_a": 341957,
+      "idx_b": 2462615,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 9179,
+      "idx_a": 550008,
+      "idx_b": 1386360,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 3176,
+      "idx_a": 3123022,
+      "idx_b": 926480,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 13014,
+      "idx_a": 3563784,
+      "idx_b": 1600850,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 5781,
+      "idx_a": 1494609,
+      "idx_b": 389252,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    },
+    {
+      "pairid": 9312,
+      "idx_a": 1349297,
+      "idx_b": 2851782,
+      "independent_verdict": "MISLABELED",
+      "evosuite_verdict": "VERIFIED"
+    }
+  ]
+]

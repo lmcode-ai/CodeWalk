@@ -1,0 +1,8 @@
+{
+  "execution": "native",
+  "timeout_seconds": 120,
+  "clone_mode": "aggregation",
+  "java": "java",
+  "javac": "javac",
+  "verus": "verus"
+}

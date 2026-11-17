@@ -1,0 +1,26 @@
+{
+  "repo_id": "CodeWalk/verus-proof-completion",
+  "revision": "f0e6ec27f39a688ac130d2e98b386ea82f3098b4",
+  "files": {
+    "README.md": {
+      "sha256": "144c61c0eabe2b61109d0517dc5bf4087385da8c7b50a08416f66beb4e737658",
+      "bytes": 3041
+    },
+    "PACKAGE_README.md": {
+      "sha256": "6ec755fc2f34467087d0436055cf8266ef5cc7fb7feb88adb785385ada664c34",
+      "bytes": 3723
+    },
+    "manifest.json": {
+      "sha256": "5df5f208e34e9fcf8d8870988b4dc57b6fa5d994bf20d7363210c9b93a55b80a",
+      "bytes": 388676
+    },
+    "SHA256SUMS": {
+      "sha256": "ce4105eb3214a870a1532ebadc5c557600efac7a5541084d016a9448781fa87a",
+      "bytes": 32762
+    },
+    "licenses/verus-proof-synthesis-LICENSE.txt": {
+      "sha256": "14f39536f5cbdb27e9ae843402d2f207bd2a2cd5113dbe08306b831bd839fc88",
+      "bytes": 1066
+    }
+  }
+}

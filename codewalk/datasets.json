@@ -1,0 +1,31 @@
+{
+  "bugfixing": {
+    "repo_id": "CodeWalk/multi-bug-repair",
+    "revision": "7c46f19a018e0d98d3924cbf0dc195ca581a5bce",
+    "license": "cc-by-4.0; upstream repository licenses also apply",
+    "files": ["README.md", "data/test.jsonl"],
+    "expected_levels": {"1": 200, "2": 200, "3": 168}
+  },
+  "verus": {
+    "repo_id": "CodeWalk/verus-proof-completion",
+    "revision": "f0e6ec27f39a688ac130d2e98b386ea82f3098b4",
+    "license": "mit",
+    "files": ["README.md", "PACKAGE_README.md", "manifest.json", "SHA256SUMS", "licenses/verus-proof-synthesis-LICENSE.txt"],
+    "expected_levels": {"1": 100, "2": 100, "3": 100, "10": 100}
+  },
+  "codeclone": {
+    "repo_id": "CodeWalk/clone-equivalence",
+    "revision": "a24a0d0819bfacc28e36594abfb1acb3176638ba",
+    "license": "mit; preserve FEMPD attribution",
+    "files": ["README.md", "data/level_1.json", "data/level_2.json", "data/level_3.json"],
+    "expected_levels": {"1": 100, "2": 100, "3": 100},
+    "variant": "legacy balanced sample; NOT paper's held-out data-flow-chain benchmark"
+  },
+  "bigo": {
+    "repo_id": null,
+    "revision": null,
+    "license": null,
+    "files": [],
+    "status": "No public Complexity dataset was listed by CodeWalk on 2026-11-05"
+  }
+}

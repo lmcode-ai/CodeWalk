@@ -1,0 +1,52 @@
+{
+  "variant": "paper-sized-source-reconstructed-2026-11-06",
+  "bank_manifest_patterns": [
+    "outputs/source-derived-datasets/paper-clone-1/L1/manifest.json",
+    "outputs/source-derived-datasets/paper-clone-2/L2/manifest.json",
+    "outputs/source-derived-datasets/paper-clone-3/L3/manifest.json",
+    "outputs/source-derived-datasets/paper-clone-positive/L10/manifest.json",
+    "outputs/source-derived-datasets/paper-clone-negative/L10/manifest.json",
+    "outputs/source-derived-datasets/paper-bigo/L*/manifest.json",
+    "outputs/source-derived-datasets/paper-verus-1/L1/manifest.json",
+    "outputs/source-derived-datasets/paper-verus-2/L2/manifest.json",
+    "outputs/source-derived-datasets/paper-verus-3/L3/manifest.json",
+    "outputs/source-derived-datasets/paper-verus-10/L10/manifest.json"
+  ],
+  "published_repair_restore": "outputs/paper-original-repair",
+  "balance_clone_to_expected_counts": true,
+  "expected_counts": {
+    "bugfixing": {
+      "1": 200,
+      "2": 200,
+      "3": 168
+    },
+    "verus": {
+      "1": 100,
+      "2": 100,
+      "3": 100,
+      "10": 100
+    },
+    "bigo": {
+      "1": 80,
+      "2": 80,
+      "3": 80,
+      "10": 80
+    },
+    "codeclone": {
+      "1": 86,
+      "2": 82,
+      "3": 84,
+      "10": 166
+    }
+  },
+  "limitations": {
+    "bugfixing": "All 568 original published task definitions restored with exact groups, commits, images and patches; not all original image environments freshly replayed locally. Preparation recipes are separate from model inputs.",
+    "codeclone": "Real exact-type data-flow chains, balanced at every paper depth. Recovered/regenerated suites share witnesses and are not independent historical CodeWalk suites. Deep chains use a loop-free source subset to bound native execution; this selection differs from historical mining. Depth-10 negatives are placed last and require a real whole-chain witness.",
+    "bigo": "Actual CodeComplex functions with source-label agreement, limited AST cost analysis and empirical size-transfer checks. Multiple distinct functions from one problem may enter the pool; each chain uses at most one atom per source problem. This differs from the historical 277-atom one-per-problem pool. No cubic/np atoms.",
+    "verus": "100 original L1 task definitions recovered with actual upstream proofs; two references add an immutable-input loop invariant for current Verus. Higher-level chains are new, conservative compatible-vector compositions, not original historical chains. Toolchain differs from the initial experiment."
+  },
+  "notes": "Count-matched reconstruction; three-way alignment gate currently fails. Historical results cannot be assigned to these regenerated tasks.",
+  "requires_verified_three_way_alignment": true,
+  "release_ready_as_paper_dataset": false,
+  "alignment_report": "docs/sources/three-way-alignment.json"
+}

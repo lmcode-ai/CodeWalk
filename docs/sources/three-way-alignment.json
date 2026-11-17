@@ -1,0 +1,145 @@
+{
+  "checked_at_utc": "2026-11-06T12:58:16.196203+00:00",
+  "scope": "Current 1706-task count-matched reconstruction",
+  "count_matched_only": true,
+  "release_ready_as_paper_dataset": false,
+  "datasets": {
+    "bugfixing": {
+      "hugging_face_identity": true,
+      "paper_identity_and_results": null,
+      "composition_methods": false,
+      "count_matches_paper": true,
+      "exact_restored_definitions": 568,
+      "actual_hf_repositories": 280,
+      "paper_reported_repositories": 270,
+      "paper_repository_count_agrees": false,
+      "notes": [
+        "Original groups, common commits, test patches, gold patches and image recipes are preserved.",
+        "Full original container G1/G2 replay and historical per-task result binding are not verified."
+      ]
+    },
+    "verus": {
+      "hugging_face_identity": false,
+      "paper_identity_and_results": null,
+      "composition_methods": false,
+      "count_matches_paper": true,
+      "exact_source_matches_in_current_export": 0,
+      "separately_restored_originals": {
+        "tasks": 400,
+        "counts_by_level": {
+          "1": 100,
+          "2": 100,
+          "3": 100,
+          "10": 100
+        },
+        "matched_hf_source_hashes": 400,
+        "normalized_or_regenerated": false,
+        "reference_or_runtime_admission_claimed": false,
+        "source_revision": "f0e6ec27f39a688ac130d2e98b386ea82f3098b4"
+      },
+      "notes": [
+        "Current exported higher-level chains are newly generated, not the original published chains.",
+        "Exact original source bytes are recoverable and must replace rewritten inputs on a historical release path.",
+        "Historical toolchain and task-to-result identity still need an explicit manifest."
+      ]
+    },
+    "codeclone": {
+      "hugging_face_identity": false,
+      "paper_identity_and_results": null,
+      "composition_methods": false,
+      "count_matches_paper": true,
+      "hf_counts": {
+        "1": 100,
+        "2": 100,
+        "3": 100
+      },
+      "current_counts": {
+        "1": 86,
+        "2": 82,
+        "3": 84,
+        "10": 166
+      },
+      "component_group_overlap_not_source_identity": {
+        "1": 25
+      },
+      "notes": [
+        "HF publishes the legacy 300-task aggregation bank, not the paper 418-task held-out bank.",
+        "Current depth-10 source pool excludes explicit loops and puts negatives last; paper specifies random negative position.",
+        "Recovered/regenerated suites share witnesses; paper requires two independent test-generation methods.",
+        "The original paper task/result manifest has not been recovered."
+      ]
+    },
+    "bigo": {
+      "hugging_face_identity": false,
+      "paper_identity_and_results": null,
+      "composition_methods": false,
+      "count_matches_paper": true,
+      "hf_repository": null,
+      "actual_pool_functions": 93,
+      "actual_pool_source_problems": 43,
+      "paper_pool_atoms": 277,
+      "nontriviality_violations_by_level": {
+        "10": 75,
+        "2": 79,
+        "3": 80
+      },
+      "nontriviality_passes_by_level": {
+        "10": 5,
+        "2": 1
+      },
+      "nontriviality_violations": 234,
+      "composed_tasks_checked": 240,
+      "notes": [
+        "No BigO dataset appears in the live public CodeWalk organization listing.",
+        "The paper takes one snippet per problem; current pool contains multiple functions from some problems.",
+        "Most current high-level tasks fail paper admission Ref(G) != max atomic label.",
+        "The paper needs an explicit N=1 exception: its literal inequality cannot hold for a singleton.",
+        "Passing local execution/size tests is not equivalent to satisfying paper admission."
+      ]
+    }
+  },
+  "live_hf_heads": {
+    "organization": {
+      "dataset_ids": [
+        "CodeWalk/multi-bug-repair",
+        "CodeWalk/verus-proof-completion",
+        "CodeWalk/clone-equivalence"
+      ]
+    },
+    "bugfixing": {
+      "sha": "7c46f19a018e0d98d3924cbf0dc195ca581a5bce",
+      "lastModified": "2026-10-09T00:51:56.000Z"
+    },
+    "verus": {
+      "sha": "f0e6ec27f39a688ac130d2e98b386ea82f3098b4",
+      "lastModified": "2026-10-09T00:51:57.000Z"
+    },
+    "codeclone": {
+      "sha": "a24a0d0819bfacc28e36594abfb1acb3176638ba",
+      "lastModified": "2026-10-09T00:51:58.000Z"
+    }
+  },
+  "local_search": "Local RFT archives contain code only; connected lmcode-ai repository/file search returned no original held-out banks.",
+  "resolution_paths": {
+    "historical": "Recover original clone 418 and BigO 320 task/result manifests; restore exact HF source tasks and reconcile paper repository counts.",
+    "new_version": "Freeze one new canonical release; bring methods and paper text into agreement, rerun affected evaluation, then publish the same versioned task hashes to HF."
+  },
+  "paper_source_sha256": {
+    "sections/approach.tex": "60ba006afd3aaccdedbf1c97dbf8319264dcb14eb532f8a8afdd3387158c536c",
+    "sections/appendix.tex": "399c97c26e56a812f34ab2cad5d049a80d74e819bd1eb77eead0401c92a8d92f",
+    "tables/evaluation-and-rft.tex": "d0bbb64f96c28c18378e0a355c40eea9537312dd8698257c4ec16f1b2e702fa1"
+  },
+  "blocking_checks": [
+    "bugfixing: paper_identity_and_results is not verified",
+    "bugfixing: composition_methods is not verified",
+    "verus: hugging_face_identity is not verified",
+    "verus: paper_identity_and_results is not verified",
+    "verus: composition_methods is not verified",
+    "codeclone: hugging_face_identity is not verified",
+    "codeclone: paper_identity_and_results is not verified",
+    "codeclone: composition_methods is not verified",
+    "bigo: hugging_face_identity is not verified",
+    "bigo: paper_identity_and_results is not verified",
+    "bigo: composition_methods is not verified"
+  ]
+}

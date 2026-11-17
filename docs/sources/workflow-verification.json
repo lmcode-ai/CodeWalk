@@ -1,0 +1,167 @@
+{
+  "scope": "local integration checks; no inference or domain semantic admission",
+  "checked_at": "2026-11-06",
+  "tool_executables": {
+    "java": null,
+    "javac": null,
+    "verus": null,
+    "docker": null
+  },
+  "datasets": {
+    "bugfixing": {
+      "domain": "bugfixing",
+      "tasks": 568,
+      "levels": {
+        "1": 200,
+        "2": 200,
+        "3": 168
+      },
+      "scope": "schema/integrity only, not semantic re-verification",
+      "repositories": 280,
+      "bugs": 1104,
+      "exported_inputs": 568
+    },
+    "codeclone": {
+      "domain": "codeclone",
+      "tasks": 300,
+      "levels": {
+        "1": 100,
+        "2": 100,
+        "3": 100
+      },
+      "scope": "schema/integrity only, not semantic re-verification",
+      "labels_by_level": {
+        "1": {
+          "equivalent": 50,
+          "not_equivalent": 50
+        },
+        "2": {
+          "equivalent": 50,
+          "not_equivalent": 50
+        },
+        "3": {
+          "equivalent": 50,
+          "not_equivalent": 50
+        }
+      },
+      "legacy_aggregation_markers_by_level": {
+        "1": 0,
+        "2": 100,
+        "3": 100
+      },
+      "marker_note": "Text markers identify legacy aggregation wrappers; this is not a Java semantic proof.",
+      "exported_inputs": 300
+    },
+    "verus": {
+      "domain": "verus",
+      "tasks": 400,
+      "levels": {
+        "1": 100,
+        "10": 100,
+        "2": 100,
+        "3": 100
+      },
+      "scope": "schema/integrity only, not semantic re-verification",
+      "exported_hash_verified_inputs": 400
+    }
+  },
+  "composition": {
+    "bugfixing": {
+      "candidate_plan_levels": [
+        1,
+        2,
+        3,
+        10
+      ],
+      "input": "synthetic normalized atoms",
+      "executable_task_generated": false,
+      "semantic_admission_run": false
+    },
+    "verus": {
+      "candidate_plan_levels": [
+        1,
+        2,
+        3,
+        10
+      ],
+      "input": "synthetic normalized atoms",
+      "executable_task_generated": false,
+      "semantic_admission_run": false
+    },
+    "bigo": {
+      "candidate_plan_levels": [
+        1,
+        2,
+        3,
+        10
+      ],
+      "input": "synthetic normalized atoms",
+      "executable_task_generated": false,
+      "semantic_admission_run": false
+    },
+    "codeclone": {
+      "candidate_plan_levels": [
+        1,
+        2,
+        3,
+        10
+      ],
+      "input": "synthetic normalized atoms",
+      "executable_task_generated": false,
+      "semantic_admission_run": false
+    }
+  },
+  "classification": {
+    "reference_echo": {
+      "tasks": 300,
+      "control_pass_rate": 1.0,
+      "note": "synthetic control responses, NOT a model benchmark result"
+    },
+    "opposite": {
+      "tasks": 300,
+      "control_pass_rate": 0.0,
+      "note": "synthetic control responses, NOT a model benchmark result"
+    },
+    "malformed": {
+      "tasks": 300,
+      "control_pass_rate": 0.0,
+      "note": "synthetic control responses, NOT a model benchmark result"
+    },
+    "bigo": "all 7 label controls passed; no real dataset available"
+  },
+  "failure_controls_passed": [
+    "cross-repository disconnected repair group",
+    "incompatible directed chain",
+    "missing intermediate size-transfer metadata",
+    "more than one negative atom",
+    "unconfigured complexity download",
+    "duplicate attempt identity",
+    "unknown attempt identity",
+    "missing results withheld from complete aggregate",
+    "infra results withheld from complete aggregate"
+  ],
+  "blockers": {
+    "bugfixing": [
+      "container/test admission backend absent",
+      "repair agent runner absent"
+    ],
+    "verus": [
+      "gold-preserving grader absent",
+      "reference proofs absent",
+      "Verus toolchain absent locally"
+    ],
+    "bigo": [
+      "dataset absent",
+      "size derivation and renderer absent"
+    ],
+    "codeclone": [
+      "inference runner absent",
+      "Java renderer and admission backend absent",
+      "current planner describes data-flow chains, not the public aggregation generator"
+    ],
+    "all_domains": [
+      "original atom extractors absent",
+      "candidate planning is not full composition"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CodeWalk normalized atom envelope v1",
+  "type": "object",
+  "required": ["schema_version", "domain", "id", "source_id", "provenance", "payload"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "domain": {"type": "string", "minLength": 1},
+    "id": {"type": "string", "minLength": 1},
+    "source_id": {"type": "string", "minLength": 1},
+    "provenance": {
+      "type": "object", "required": ["uri", "revision", "license"],
+      "properties": {
+        "uri": {"type": "string", "minLength": 1},
+        "revision": {"type": "string", "minLength": 1},
+        "license": {"type": "string", "minLength": 1}
+      }
+    },
+    "payload": {"type": "object"}
+  },
+  "$comment": "Each backend validates its own payload. This envelope intentionally permits new domains."
+}

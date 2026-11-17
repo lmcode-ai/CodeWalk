@@ -1,0 +1,18 @@
+# regenerated intermediates (large)
+instances_cache.json
+p2p_cache.json
+candidates_*.jsonl
+v2_l1_candidates.json
+v2l1_valid.jsonl
+
+# outputs (the released dataset is on HuggingFace: CodeWalk/multi-bug-repair)
+benchmark_all.json
+benchmark_dataset.jsonl
+
+# run artifacts
+*.log
+*.traj.json
+.raw_*
+*_results.jsonl
+regrade_p2p.jsonl
+__pycache__/

@@ -1,0 +1,22 @@
+{
+  "repo_id": "CodeWalk/clone-equivalence",
+  "revision": "a24a0d0819bfacc28e36594abfb1acb3176638ba",
+  "files": {
+    "README.md": {
+      "sha256": "f3665de0f1ff2e1eaca8f8b39de5fe9795e083a1524b2170f42d58cb4369ca9d",
+      "bytes": 2897
+    },
+    "data/level_1.json": {
+      "sha256": "d7a8d6aac8cd7943222a5a66b9d332e0f81d42ac07045454362d78ca3ab40393",
+      "bytes": 91581
+    },
+    "data/level_2.json": {
+      "sha256": "95dc8f2f1c2a14629d12e1f86e0e5a85621c574209a448e8c16dd50d5df99ada",
+      "bytes": 433816
+    },
+    "data/level_3.json": {
+      "sha256": "d9df8456d8c0ae578f717cb4217b31f0415a4c5c7821269eb2f787286077febc",
+      "bytes": 574121
+    }
+  }
+}

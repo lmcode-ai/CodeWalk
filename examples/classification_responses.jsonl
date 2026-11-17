@@ -1,0 +1,4 @@
+{"task_id":"synthetic-eq","sample_idx":0,"response":"VERDICT: 1"}
+{"task_id":"synthetic-eq","sample_idx":1,"response":"VERDICT: 0"}
+{"task_id":"synthetic-neq","sample_idx":0,"response":"Reasoning omitted.\nVERDICT: 0"}
+{"task_id":"synthetic-neq","sample_idx":1,"response":"ambiguous"}

@@ -1,0 +1,134 @@
+{
+  "scope": "real tools on trusted synthetic atoms; not historical dataset reproduction",
+  "cases": [
+    {
+      "domain": "bigo",
+      "level": 1,
+      "complete": true,
+      "accepted": 1,
+      "blocked": null,
+      "rejected": []
+    },
+    {
+      "domain": "bigo",
+      "level": 2,
+      "complete": true,
+      "accepted": 1,
+      "blocked": null,
+      "rejected": []
+    },
+    {
+      "domain": "bigo",
+      "level": 3,
+      "complete": true,
+      "accepted": 1,
+      "blocked": null,
+      "rejected": []
+    },
+    {
+      "domain": "bigo",
+      "level": 10,
+      "complete": true,
+      "accepted": 1,
+      "blocked": null,
+      "rejected": []
+    },
+    {
+      "domain": "bugfixing",
+      "level": 1,
+      "complete": true,
+      "accepted": 1,
+      "blocked": null,
+      "rejected": []
+    },
+    {
+      "domain": "bugfixing",
+      "level": 2,
+      "complete": true,
+      "accepted": 1,
+      "blocked": null,
+      "rejected": []
+    },
+    {
+      "domain": "bugfixing",
+      "level": 3,
+      "complete": true,
+      "accepted": 1,
+      "blocked": null,
+      "rejected": []
+    },
+    {
+      "domain": "bugfixing",
+      "level": 10,
+      "complete": true,
+      "accepted": 1,
+      "blocked": null,
+      "rejected": []
+    },
+    {
+      "domain": "codeclone",
+      "level": 1,
+      "complete": true,
+      "accepted": 1,
+      "blocked": null,
+      "rejected": []
+    },
+    {
+      "domain": "codeclone",
+      "level": 2,
+      "complete": true,
+      "accepted": 1,
+      "blocked": null,
+      "rejected": []
+    },
+    {
+      "domain": "codeclone",
+      "level": 3,
+      "complete": true,
+      "accepted": 1,
+      "blocked": null,
+      "rejected": []
+    },
+    {
+      "domain": "codeclone",
+      "level": 10,
+      "complete": true,
+      "accepted": 1,
+      "blocked": null,
+      "rejected": []
+    },
+    {
+      "domain": "verus",
+      "level": 1,
+      "complete": true,
+      "accepted": 1,
+      "blocked": null,
+      "rejected": []
+    },
+    {
+      "domain": "verus",
+      "level": 2,
+      "complete": true,
+      "accepted": 1,
+      "blocked": null,
+      "rejected": []
+    },
+    {
+      "domain": "verus",
+      "level": 3,
+      "complete": true,
+      "accepted": 1,
+      "blocked": null,
+      "rejected": []
+    },
+    {
+      "domain": "verus",
+      "level": 10,
+      "complete": true,
+      "accepted": 1,
+      "blocked": null,
+      "rejected": []
+    }
+  ],
+  "complete": true
+}
